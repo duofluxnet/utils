@@ -46,19 +46,3 @@ for root, dirs, files in walk('/home/df/Desktop/APPLICATIONS'):
         fout.flush()
 
     fout.close()
-
-"""      
-        with open(file_path, "r",  encoding="UTF-8", newline='\n') as f:
-            for line in f:
-                l = line.strip()
-                if l == "":
-                    continue
-                if l.startswith('#'):
-                    continue
-                if l.startswith("[Desktop Entry]"):
-                    continue
-                if l.find('=') > -1:
-                    print(line)
-                    fout.flush()
-            f.close()
-"""            
