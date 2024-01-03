@@ -1,7 +1,7 @@
-#------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
 # slackbuilds_parse.py (Python 3.9.18 / x86_64)
 #
-# THIS PROGRAM PIPELINES SlackBuild.org PACKAGES INFORMATION FILES ONTO A 
+# THIS PROGRAM PIPELINES SlackBuild.org PACKAGES INFORMATION FILES ONTO A
 # MySQL (MariaDB) DATABASE MODEL TO ENABLE SQL ANLAYSIS AND UTILITIES BUILD.
 #
 # maintainer: duoflux (duofluxnet@gmail.com);
@@ -11,6 +11,7 @@
 # ------------------------------------------------------------------------------
 
 import time
+from colored import Fore, Back, Style
 
 p_path = "/opt/slackbuilds/15.0/"
 f_name = "SLACKBUILDS.TXT"
@@ -36,7 +37,9 @@ pack_elements = [
     "SLACKBUILD DOWNLOAD",
     "SLACKBUILD DOWNLOAD_x86_64",
 ]
-print("{}: Parsing PACKAGES data...".format(time.time()))
+print(
+    f"{time.time()}: {Fore.white}{Back.green}Parsing PACKAGES data...{Style.reset}"
+)
 pack_dict = {}
 for line in data.split("\n"):
     pack = line.split("\t")
