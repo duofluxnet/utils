@@ -1,0 +1,87 @@
+#
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019 Bhushan Shah <bshah@kde.org>
+# SPDX-FileCopyrightText: 2019 Johan Ouwerkerk <jm.ouwerkerk@gmail.com>
+# SPDX-FileCopyrightText: 2020 Carl Schwan <carl@carlschwan.eu>
+#
+[Desktop Entry]
+Name=Keysmith
+Name[ca]=Keysmith
+Name[ca@valencia]=Keysmith
+Name[cs]=Keysmith
+Name[de]=Keysmith
+Name[en_GB]=Keysmith
+Name[eo]=Keysmith
+Name[es]=Keysmith
+Name[et]=Keysmith
+Name[eu]=Keysmith
+Name[fi]=Keysmith
+Name[fr]=Keysmith
+Name[gl]=Keysmith
+Name[hi]=कीस्मिथ (Keysmith)
+Name[hu]=Keysmith
+Name[ia]=Keysmith
+Name[it]=Keysmith
+Name[ka]=Keysmith
+Name[ko]=Keysmith
+Name[nl]=Keysmith
+Name[nn]=Keysmith
+Name[pa]=ਕੀ-ਸਮਿੱਥ
+Name[pl]=Keysmith
+Name[pt]=Keysmith
+Name[pt_BR]=Keysmith
+Name[ro]=Keysmith
+Name[ru]=Keysmith
+Name[sk]=Keysmith
+Name[sl]=Keysmith
+Name[sv]=Keysmith
+Name[tg]=Keysmith
+Name[tr]=Çilingir
+Name[uk]=Keysmith
+Name[x-test]=xxKeysmithxx
+Name[zh_CN]=Keysmith
+Name[zh_TW]=Keysmith
+Comment=Manage your OTP tokens for two factor authentication (2fa)
+Comment[ca]=Gestiona els vostres símbols OTP per a una autenticació de dos factors (2fa)
+Comment[ca@valencia]=Gestiona els vostres símbols OTP per a una autenticació de dos factors (2fa)
+Comment[cs]=Spravujte tokeny OTP pomocí dvoufaktorového ověření (2fa)
+Comment[de]=Verwaltung Ihrer OTP-Token für die Zwei-Faktor-Authentisierung (2FA)
+Comment[en_GB]=Manage your OTP tokens for two factor authentication (2fa)
+Comment[eo]=Administru viajn OTP-ĵetonojn por dufaktora aŭtentigo (2fa)
+Comment[es]=Gestión de elementos OTP para autenticación de dos factores (2fa)
+Comment[et]=Kaheastmelise autentimise (2fa) OTP-pääsmike haldamine 
+Comment[eu]=Kudeatu bi faktoreko autentifikaziorako zure «OTP»ak (2FA)
+Comment[fi]=Hallitse kahden tekijän todennuksen (2FA) OTP-merkkejä
+Comment[fr]=Gérez vos jetons OTP pour l'authentification à 2 facteurs (2fa)
+Comment[gl]=Xestione os seus contrasinais dun uso para a autenticación de dous factores (2FA).
+Comment[hi]=आपके दोहरे प्रमाणीकरण (2fa) के लिए OTP टोकन का प्रबंधन
+Comment[hu]=OTP tokenek kezelése a kétfaktoros hitelesítéshez (2FA)
+Comment[ia]=Gere tu secretos OTP per authenication a duo factores (2fa)
+Comment[it]=Gestisce i token OTP per l'autenticazione a due fattori (2fa)
+Comment[ka]=მართეთ თქვენი OTP კოდები 2FA-სთვის
+Comment[ko]=2단계 인증(2FA) OTP 토큰 관리 도구
+Comment[nl]=Uw OTP-tokens beheren voor twee-factor authenticatie (2fa)
+Comment[nn]=Handsam OTP-pollettar for tofaktor­autentisering (2FA)
+Comment[pa]=ਦੋ-ਪੜ੍ਹਾਵੀਂ ਪਰਮਾਣਕਿਤਾ (2fa) ਲਈ ਆਪਣੇ OTP ਟੋਕਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+Comment[pl]=Zarządzaj swoimi tokenami OTP do dwustopniowego uwierzytelniania (2fa)
+Comment[pt]=Faça a gestão dos seus códigos OTP para a autenticação em dois-factores (2FA)
+Comment[pt_BR]=Gerencie seus tokens OTP para a autenticação de dois fatores (2fa)
+Comment[ro]=Gestionați-vă jetoanele OTP pentru autentificarea în doi factori (2fa)
+Comment[ru]=Управление маркерами OTP для двухфакторной аутентификации (2fa)
+Comment[sk]=Spravujte svoje OTP tokeny pre dvojfaktorové overenie (2fa)
+Comment[sl]=Upravljajte vaših enkratnih gesel žetonov za dvo-faktorsko overjanje (2fa)
+Comment[sv]=Hantera OTP-symboler för tvåfaktorsbehörighetskontroll (2fa)
+Comment[tg]=Нишонҳои OTP-и худро барои санҷиши ҳаққонияти дуомила идора намоед (2fa)
+Comment[tr]=2FA Jeton Uygulaması
+Comment[uk]=Керування вашими ключами OTP для двофакторного розпізнавання (2fa)
+Comment[x-test]=xxManage your OTP tokens for two factor authentication (2fa)xx
+Comment[zh_CN]=管理 OTP 令牌的双重身份验证 (2fa)
+Comment[zh_TW]=管理兩步驟驗證 (2FA) 的 OTP 憑證
+Version=1.0
+Exec=keysmith %u
+Icon=keysmith
+Type=Application
+SingleMainWindow=true
+Terminal=false
+Categories=Qt;KDE;Utility
+MimeType=x-scheme-handler/otpauth;

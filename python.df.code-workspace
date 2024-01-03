@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"editor.formatOnPaste": true,
+		"editor.tokenColorCustomizations": {
+		
+		},
+		"emmet.syntaxProfiles": {
+
+		},
+		"workbench.colorTheme": "Basic Themes - (Dark)",
+		"workbench.colorCustomizations": {
+
+		},
+		"workbench.preferredDarkColorTheme": "qqqoid mono",
+		"materialTheme.accent": "Purple"
+	}
+}

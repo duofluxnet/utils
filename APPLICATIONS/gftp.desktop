@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=gFTP
+Comment=Download and upload files using multiple file transfer protocols
+Comment[fr]=Télécharge des fichiers en utilisant le protocole FTP
+GenericName=gFTP
+Exec=gftp
+Terminal=false
+Type=Application
+Icon=gftp.png
+Categories=Network;
+Keywords=ftp;network;transfer;file;

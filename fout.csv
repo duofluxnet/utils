@@ -1,0 +1,486 @@
+Desktop File Name	Name	Generic Name	Comments	Command	Terminal/UI	Display	Show	MIME Types	Categories	Keywords
+org.kde.korganizer.desktop	KOrganizer	Personal Organizer	Calendar and Scheduling Program	"korganizer %U"	UI	OnDisplay	Shown	text/calendar	Qt, KDE, Office, Calendar	
+org.kde.kdevelop_kdev4.desktop	KDevelop	Integrated Development Environment		"kdevelop -p %u"	UI	NoDisplay	Shown	application/x-kdevelop	Qt, KDE, Development, IDE	
+org.kde.lokalize.desktop	Lokalize	Computer-Aided Translation System		"lokalize %F"	UI	OnDisplay	Shown	application/x-xliff, text/x-gettext-translation, text/x-gettext-translation-template, application/x-lokalize-project	Qt, KDE, Development, Office, Translation	
+kcm_users.desktop	Users			"systemsettings kcm_users"	UI	NoDisplay	Shown			
+kcm_plasmasearch.desktop	Plasma Search			"systemsettings kcm_plasmasearch"	UI	NoDisplay	Shown			
+okularApplication_djvu.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	NoDisplay	Shown	image/vnd.djvu	Qt, KDE, Graphics, Viewer	
+org.kde.kmplot.desktop	KmPlot	Mathematical Function Plotter	Function Plotter	"kmplot %u"	UI	OnDisplay	Shown	application/x-kmplot	Qt, KDE, Education, Math	
+xfce4-clipman.desktop	Clipboard Manager		Clipboard Manager Autostart File	"xfce4-clipman"	UI	OnDisplay	Shown		GTK, Utility, TrayIcon	
+org.gtk.WidgetFactory4.desktop	Widget Factory		A showcase for GTK widgets, designed for testing themes.	"gtk4-widget-factory"	UI	OnDisplay	Shown		Development, GTK	
+kbd-layout-viewer5.desktop	Keyboard layout viewer		View keyboard layout	"kbd-layout-viewer5"	UI	OnDisplay	Shown		Qt, KDE, Utility	
+org.kde.kid3.desktop	Kid3	Audio Tagger	Edit audio file metadata	"kid3 %F"	UI	OnDisplay	Shown	audio/mpeg, audio/ogg, application/ogg, audio/x-flac, audio/x-flac+ogg, audio/x-vorbis+ogg, audio/x-speex+ogg, audio/x-oggflac, audio/x-musepack, audio/aac, audio/mp4, audio/x-speex, audio/x-tta, audio/x-wavpack, audio/x-aiff, audio/x-it, audio/x-mod, audio/x-s3m, audio/x-ms-wma, audio/x-wav, audio/x-xm, audio/opus, audio/x-opus+ogg, audio/x-dsf, inode/directory	Qt, KDE, AudioVideo, Audio, AudioVideoEditing	audio, id3, tag, editor, id3v1, id3v2, mp3
+org.kde.kontrast.desktop	Kontrast		Contrast Checker	"kontrast"	UI	OnDisplay	Shown		Graphics, Qt, KDE	
+kcm_touchpad.desktop	Touchpad			"systemsettings kcm_touchpad"	UI	NoDisplay	Shown			
+org.kde.kalgebramobile.desktop	KAlgebra Mobile	Pocket Graph Calculator	Pocket Math Expression Solver and Plotter	"kalgebramobile %u"	UI	OnDisplay	Shown	application/x-kalgebra	Qt, KDE, Education, Math, Science	
+org.kde.konsole.desktop	Konsole	Terminal	Command line access	"konsole"	UI	OnDisplay	Shown		Qt, KDE, System, TerminalEmulator	terminal, console, script, run, execute, command, command-line, commandline, cli, bash, sh, shell, zsh, cmd, command prompt
+org.kde.kitenradselect.desktop	Radical Selector			"kitenradselect"	UI	NoDisplay	Shown		Qt, KDE, Education, Languages	
+okularApplication_tiff.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	NoDisplay	Shown	image/tiff	Qt, KDE, Graphics, Viewer	
+kcm_screenlocker.desktop	Screen Locking			"systemsettings kcm_screenlocker"	UI	NoDisplay	Shown			
+okularApplication_ghostview.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	NoDisplay	Shown	application/postscript, image/x-eps, application/x-gzpostscript, application/x-bzpostscript, image/x-gzeps, image/x-bzeps	Qt, KDE, Graphics, Viewer	
+org.kde.mobile.okular_xps.desktop	Reader	Document viewer	Viewer for various types of documents	"okularkirigami %u"	UI	NoDisplay	Shown	application/oxps, application/vnd.ms-xpsdocument	Qt, KDE, Graphics, Office, Viewer	
+org.kde.knotes.desktop	KNotes	Popup Notes		"knotes"	UI	OnDisplay	Shown		Qt, KDE, Utility, TextTools, X-KDE-Utilities-Desktop	
+org.kde.systemmonitor.desktop	System Activity			"systemmonitor"	UI	NoDisplay	Shown			
+org.kde.konversation.desktop	Konversation	IRC Client		"konversation -qwindowtitle %c %u"	UI	OnDisplay	Shown	x-scheme-handler/irc, x-scheme-handler/ircs	Qt, KDE, Network, IRCClient	
+kcm_kwinxwayland.desktop	Legacy X11 App Support			"systemsettings kcm_kwinxwayland"	UI	NoDisplay	Shown			
+org.gtk.IconBrowser4.desktop	Icon Browser		An application that shows themed icons	"gtk4-icon-browser"	UI	OnDisplay	Shown		Development, GTK	
+org.kde.kontact.desktop	Kontact	Personal Information Manager		"kontact"	UI	OnDisplay	Shown		Qt, KDE, Office	
+org.kde.klipper.desktop	Klipper	Clipboard Tool	A cut & paste history utility	"klipper"	UI	OnDisplay	Shown		Qt, KDE, Utility, X-KDE-Utilities-Desktop	
+org.kde.kdeconnect.sms.desktop	KDE Connect SMS	SMS	Text Messaging	"kdeconnect-sms"	UI	OnDisplay	Shown		Qt, KDE, Network, InstantMessaging	
+org.kde.kmymoney.desktop	KMyMoney	Personal Finance Manager	Personal Finance Manager	"kmymoney %u"	UI	OnDisplay	Shown	application/x-kmymoney, application/vnd.intu.qfx, application/x-ofx	Qt, KDE, Office, Finance	
+org.kde.kdeconnect-settings.desktop	KDE Connect Settings	Connect and sync your devices		"kdeconnect-settings"	UI	OnDisplay	Shown		Qt, KDE, Settings, HardwareSettings	
+org.kde.okular.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	OnDisplay	Shown	application/vnd.kde.okular-archive	Qt, KDE, Graphics, Office, Viewer	
+org.gnome.pan.desktop	Pan	Newsreader	Read and post Usenet articles	"pan %U"	UI	OnDisplay	Shown	application/x-nzb	GTK, Network, News	usenet, news, newsreader, newsgroup, article, yenc, nzb
+kfmclient_dir.desktop	Konqueror			"kfmclient --mimetype inode/directory openURL %u"	UI	NoDisplay	Shown	inode/directory	Qt, KDE, System	
+mplayer.desktop	MPlayer	Media Player	Play movies and songs	"gmplayer %F"	UI	OnDisplay	Shown	application/x-cd-image, application/x-cue, application/x-mpegurl, application/mxf, application/x-netshow-channel, application/ogg, application/ram, application/vnd.adobe.flash.movie, application/vnd.apple.mpegurl, application/vnd.rn-realmedia, application/x-shockwave-flash, application/smil, audio/aac, audio/ac3, audio/x-adpcm, audio/x-aiff, audio/AMR, audio/AMR-WB, audio/x-ape, audio/basic, audio/flac, audio/x-flac, audio/x-flac+ogg, audio/x-m4b, audio/x-matroska, audio/mp2, audio/mp4, audio/mpeg, audio/x-mpegurl, audio/x-ms-asx, audio/x-ms-wma, audio/x-musepack, audio/ogg, audio/vnd.rn-realaudio, audio/x-scpls, audio/x-voc, audio/x-vorbis+ogg, audio/x-wav, audio/x-wavpack, video/3gpp, video/3gpp2, video/dv, video/x-flic, video/x-flv, video/x-matroska, video/mp2t, video/mp4, video/mpeg, video/vnd.mpegurl, video/x-ms-asf, video/x-ms-wmv, video/x-msvideo, video/x-nsv, video/ogg, video/x-ogm+ogg, video/quicktime, video/vnd.rn-realvideo, video/x-theora+ogg, video/webm, x-content/audio-cdda, x-content/audio-dvd, x-content/video-dvd, x-content/video-svcd, x-content/video-vcd	GTK, AudioVideo, Audio, Video, Player, TV	Player, Capture, Audio, Music, Song, Video, Movie, Film, Clip, DVD, VCD, CD, Disc, DVB, TV
+kwincompositing.desktop	Compositor			"systemsettings kwincompositing"	UI	NoDisplay	Shown			
+kcm_filetypes.desktop	File Associations			"systemsettings kcm_filetypes"	UI	NoDisplay	Shown			
+nm-applet.desktop	Network		Manage your network connections	"nm-applet"	UI	NoDisplay	Shown			
+org.kde.akregator.desktop	Akregator	Feed Reader	A KDE News Feed Reader	"akregator %u"	UI	OnDisplay	Shown	application/atom+xml, application/rss+xml, application/rdf+xml	Qt, KDE, Network, News, Feed	
+kcm_colors.desktop	Colors			"systemsettings kcm_colors"	UI	NoDisplay	Shown			
+xfce4-notifyd-config.desktop	Notifications		Customize how notifications appear on your screen	"xfce4-notifyd-config"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-PersonalSettings	
+ddd.desktop	Data Display Debugger		Graphical debugger frontend	"ddd"	UI	OnDisplay	Shown		Development	
+org.kde.krdc.desktop	KRDC	Remote Desktop Client	Connect with RDP or VNC to another computer	"krdc -qwindowtitle %c %u"	UI	OnDisplay	Shown	x-scheme-handler/vnc, x-scheme-handler/rdp	Qt, KDE, Network, RemoteAccess	
+org.kde.dolphin.desktop	Dolphin	File Manager		"dolphin %u"	UI	OnDisplay	Shown	inode/directory	Qt, KDE, System, FileTools, FileManager	files, file management, file browsing, samba, network shares, Explorer, Finder
+org.kde.knavalbattle.desktop	Naval Battle	Ship Sinking Game		"knavalbattle -qwindowtitle %c %U"	UI	OnDisplay	Shown	inode/vnd.kde.service.knavalbattle, x-scheme-handler/kbattleship	Qt, KDE, Game, StrategyGame	
+cups.desktop	Manage Printing		CUPS Web Interface	"/usr/bin/xdg-open http://localhost:631/"	UI	OnDisplay	Shown		System, Printing, HardwareSettings, X-Red-Hat-Base	
+qt5-linguist.desktop	Qt5 Linguist		Add translations to Qt5 applications	"linguist-qt5"	UI	OnDisplay	Shown	text/vnd.trolltech.linguist, application/x-linguist	Qt, Development	
+org.kde.krfb.desktop	Krfb	Desktop Sharing (VNC)	Desktop Sharing	"krfb -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Network, RemoteAccess	
+kcm_powerdevilactivitiesconfig.desktop	Activity Power Settings			"systemsettings kcm_powerdevilactivitiesconfig"	UI	NoDisplay	Shown			
+systemsettings.desktop	System Settings	System Settings	Configuration tools for your computer	"systemsettings"	UI	OnDisplay	Shown		Qt, KDE, Settings	
+org.kde.bluedevilsendfile.desktop	Bluetooth File Transfer	Bluetooth File Transfer	Send files via Bluetooth	"bluedevil-sendfile -k %u"	UI	NoDisplay	Shown	application/vnd.kde.bluedevil-sendfile	Qt, KDE, X-Bluetooth, Network	
+xfce-keyboard-settings.desktop	Keyboard		Edit keyboard settings and application shortcuts	"xfce4-keyboard-settings"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-HardwareSettings	numlock, keyboard, layout, shortcuts
+ca.desrt.dconf-editor.desktop	dconf Editor	Configuration editor for dconf	Directly edit your entire configuration database	"dconf-editor"	UI	OnDisplay	Shown		GNOME, GTK, System	settings, configuration
+xfce4-settings-editor.desktop	Settings Editor		Graphical settings editor for Xfconf	"xfce4-settings-editor"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog	registry, regedit, configuration file
+org.kde.artikulate.desktop	Artikulate	Artikulate Pronunciation Trainer		"artikulate -qwindowtitle "%c""	UI	OnDisplay	Shown		Qt, KDE, Education, Languages	
+gvim.desktop	GVim	Text Editor	Edit text files	"gvim -f %F"	UI	OnDisplay	Shown	text/english, text/plain, text/x-makefile, text/x-c++hdr, text/x-c++src, text/x-chdr, text/x-csrc, text/x-java, text/x-moc, text/x-pascal, text/x-tcl, text/x-tex, application/x-shellscript, text/x-c, text/x-c++	Utility, TextEditor	Text, editor
+org.kde.ktorrent.desktop	KTorrent	BitTorrent Client	A BitTorrent program by KDE	"ktorrent %U"	UI	OnDisplay	Shown	application/x-bittorrent, application/x-torrent, x-scheme-handler/magnet	Qt, KDE, Network, FileTransfer, P2P	
+org.kde.mobile.okular_pdf.desktop	Reader	Document viewer	Viewer for various types of documents	"okularkirigami %u"	UI	NoDisplay	Shown	application/pdf, application/x-gzpdf, application/x-bzpdf, application/x-wwf	Qt, KDE, Graphics, Office, Viewer	
+org.kde.digikam.desktop	digiKam	Photo Management Program	Manage your photographs like a professional with the power of open source	"digikam -qwindowtitle %c"	UI	OnDisplay	Shown	x-content/image-dcf, x-content/image-picturecd	Qt, Graphics, Photography	
+xmms.desktop	XMMS	Audio Player	Play music	"xmms %U"	UI	OnDisplay	Shown	application/x-ogg, audio/mp3, audio/mpeg, audio/mpegurl, audio/prs.sid, audio/x-flac, audio/x-it, audio/x-mod, audio/x-mp3, audio/x-mpeg, audio/x-mpegurl, audio/x-ms-wma, audio/x-musepack, audio/x-s3m, audio/x-scpls, audio/x-stm, audio/x-wav, audio/x-xm, application/ogg, audio/x-vorbis+ogg	Application, GTK, AudioVideo, Player	
+xfce4-appfinder.desktop	Application Finder		Find and launch applications installed on your system	"xfce4-appfinder"	UI	OnDisplay	Shown		Utility, X-XFCE	program, applications, bookmarks
+marble_kmz.desktop	Marble	Virtual Globe		"marble %F"	UI	NoDisplay	Shown	application/vnd.google-earth.kmz	Qt, KDE, Education, Geography	
+org.kde.kdevelop_bzr.desktop	KDevelop (Fetch Bazaar Project)	Integrated Development Environment		"kdevelop --ps --fetch %U"	UI	NoDisplay	Shown	x-scheme-handler/bzr, x-scheme-handler/bzr+ssh, x-scheme-handler/lp	Qt, KDE, Development, IDE	
+gftp.desktop	gFTP	gFTP	Download and upload files using multiple file transfer protocols	"gftp"	UI	OnDisplay	Shown		Network	ftp, network, transfer, file
+marble_gpx.desktop	Marble	Virtual Globe		"marble %F"	UI	NoDisplay	Shown	application/gpx+xml	Qt, KDE, Education, Geography	
+org.kde.kde-add-printer.desktop	Add Printer		Tool for adding new printers	"kde-add-printer"	UI	NoDisplay	Shown		Qt, KDE, Printing, Utility	
+org.kde.akonadi_vcarddir_resource.desktop	vCard Directory			"akonadi_vcarddir_resource"	UI	NoDisplay	Shown			
+org.kde.kleopatra.desktop	Kleopatra	Certificate Manager and Unified Crypto GUI		"kleopatra"	UI	OnDisplay	Shown		Qt, KDE, Utility	
+xfce4-power-manager-settings.desktop	Power Manager	Power Manager	Settings for the Xfce Power Manager	"xfce4-power-manager-settings"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-HardwareSettings	settings, preferences, buttons, sleep, hibernate, battery, suspend, shutdown, brightness, laptop lid, lock screen, plugged in, saving, critical
+okularApplication_comicbook.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	NoDisplay	Shown	application/x-cbz, application/x-cbr, application/x-cbt, application/x-cb7	Qt, KDE, Graphics, Viewer	
+org.kde.kfontview.desktop	KFontView	Font Viewer		"kfontview %U"	UI	NoDisplay	Shown	application/x-font-ttf, application/x-font-type1, application/x-font-otf, application/x-font-pcf, application/x-font-bdf, application/vnd.kde.fontspackage, font/otf, font/ttf, font/collection	Qt, KDE, Utility	
+kcm_kdf.desktop	Storage Devices			"systemsettings kcm_kdf"	UI	NoDisplay	Shown			
+org.kde.kgeography.desktop	KGeography	Geography Trainer	A Geography Learning Program	"kgeography"	UI	OnDisplay	Shown		Qt, KDE, Education, Geography	
+org.kde.knetwalk.desktop	KNetWalk	Network Construction Game	Strategy game	"knetwalk -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, StrategyGame	
+org.kde.knetattach.desktop	KNetAttach	Network Folder Wizard		"knetattach"	UI	NoDisplay	Shown		Qt, KDE, Network, RemoteAccess	
+easytag.desktop	EasyTAG	Audio File Metadata Editor	Edit audio file metadata	"easytag %F"	UI	OnDisplay	Shown	inode/directory, audio/x-mp3, audio/x-mpeg, audio/mpeg, application/ogg, audio/x-vorbis+ogg, audio/x-flac, audio/x-musepack, audio/x-ape, audio/x-speex+ogg, audio/x-opus+ogg	GTK, AudioVideo, AudioVideoEditing, Audio	mp3, tag, audio, music
+uxterm.desktop	UXTerm		xterm wrapper for Unicode environments	"uxterm"	UI	OnDisplay	Shown		System, TerminalEmulator	shell, prompt, command, commandline, cmd
+wheelmap-geo-handler.desktop	wheelmap.org			"kde-geo-uri-handler --coordinate-template "https://wheelmap.org/?lat=<LAT>&lon=<LON>" --query-template "https://wheelmap.org/search?q=<Q>" --fallback "https://wheelmap.org" %u"	UI	NoDisplay	Shown	x-scheme-handler/geo		
+kcm_landingpage.desktop	Quick Settings			"systemsettings kcm_landingpage"	UI	NoDisplay	Shown			
+okularApplication_mobi.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	NoDisplay	Shown	application/x-mobipocket-ebook	Qt, KDE, Graphics, Viewer	
+okularApplication_txt.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	NoDisplay	Shown	text/plain	Qt, KDE, Graphics, Viewer	
+org.kde.kmag.desktop	KMag	Screen Magnifier	A screen magnification tool	"kmag"	UI	OnDisplay	Shown		Qt, KDE, Utility, Accessibility	
+qvidcap.desktop	Qt V4L2 video capture utility		Viewer for video capture	"qvidcap"	UI	OnDisplay	Shown		AudioVideo	video, grabber, V4L
+panel-preferences.desktop	Panel		Customize the panel	"xfce4-panel --preferences"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-PersonalSettings	panels, settings, preferences, taskbar, autohide, application menu, start, buttons, launcher, notification area, status, icons, plugins
+org.kde.dolphinsu.desktop	File Manager - Super User Mode			"dbus-launch dolphin -qwindowtitle "%c" "%u""	UI	OnDisplay	Shown	inode/directory	Qt, KDE, System, FileManager	
+org.kde.mobile.okular_comicbook.desktop	Reader	Document viewer	Viewer for various types of documents	"okularkirigami %u"	UI	NoDisplay	Shown	application/x-cbz, application/x-cbr, application/x-cbt, application/x-cb7	Qt, KDE, Graphics, Office, Viewer	
+kcm_smserver.desktop	Desktop Session			"systemsettings kcm_smserver"	UI	NoDisplay	Shown			
+xfce4-screenshooter.desktop	Screenshot		Take screenshots of the entire screen, of the active window or of a region	"xfce4-screenshooter"	UI	OnDisplay	Shown		GTK, Utility	
+kcm_sddm.desktop	Login Screen (SDDM)			"systemsettings kcm_sddm"	UI	NoDisplay	Shown			
+org.kde.kamoso.desktop	Kamoso	Camera	Use your webcam to take pictures or make videos	"kamoso -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, AudioVideo	
+marble_worldwind.desktop	Marble			"marble --geo-uri=%u"	Terminal	NoDisplay	Shown	x-scheme-handler/worldwind		
+org.kde.gwenview.desktop	Gwenview	KDE Image Viewer	A simple image viewer	"gwenview %U"	UI	OnDisplay	Shown	inode/directory, image/avif, image/gif, image/heif, image/jpeg, image/jxl, image/png, image/bmp, image/x-eps, image/x-icns, image/x-ico, image/x-portable-bitmap, image/x-portable-graymap, image/x-portable-pixmap, image/x-xbitmap, image/x-xpixmap, image/tiff, image/x-psd, image/x-webp, image/webp, image/x-tga, image/x-xcf, application/x-krita, image/x-kde-raw, image/x-canon-cr2, image/x-canon-crw, image/x-kodak-dcr, image/x-adobe-dng, image/x-kodak-k25, image/x-kodak-kdc, image/x-minolta-mrw, image/x-nikon-nef, image/x-olympus-orf, image/x-pentax-pef, image/x-fuji-raf, image/x-panasonic-rw, image/x-sony-sr2, image/x-sony-srf, image/x-sigma-x3f, image/x-sony-arw, image/x-panasonic-rw2	Qt, KDE, Graphics, Viewer, Photography	
+org.kde.ConfigurePrinter.desktop	Configure Printer		Configure your printer	"configure-printer"	UI	NoDisplay	Shown		Qt, KDE, Printing, Utility	
+xfce-backdrop-settings.desktop	Desktop		Set desktop background and menu and icon behavior	"xfdesktop-settings"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-PersonalSettings	
+org.kde.keditfiletype.desktop	File Type Editor	File Type Editor		"keditfiletype5"	UI	NoDisplay	Shown			
+kcmspellchecking.desktop	Spell Check			"systemsettings kcmspellchecking"	UI	NoDisplay	Shown			
+org.kde.kwrite.desktop	KWrite	Text Editor	KDE Text Editor	"kwrite %U"	UI	OnDisplay	Shown	text/plain	Qt, KDE, Utility, TextEditor	text, txt, editor, note, notepad
+org.kde.katomic.desktop	KAtomic	Sokoban-like Logic Game		"katomic -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, StrategyGame	
+rxvt-unicode-256color.desktop	rxvt-unicode (256color)		A VT102 emulator for the X window system	"urxvt256c"	UI	OnDisplay	Shown		System, TerminalEmulator	
+thunar.desktop	Thunar File Manager	File Manager	Browse the filesystem with the file manager	"thunar %U"	UI	OnDisplay	Shown	inode/directory	System, Core, GTK, FileTools, FileManager	file manager, explorer, finder, browser, folders, directory, directories, partitions, drives, network, devices, rename, move, copy, delete, permissions, home, trash
+org.xfce.mousepad-settings.desktop	Text Editor Settings		Configure the Mousepad text editor	"mousepad --preferences"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-PersonalSettings	
+org.kde.bovo.desktop	Bovo	Five-in-a-row Board Game		"bovo -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, BoardGame	
+org.kde.zanshin.desktop	Zanshin	To Do Management Application		"zanshin"	UI	OnDisplay	Shown		Qt, KDE, Utility, X-KDE-Utilities-PIM	
+org.kde.kopete.desktop	Kopete	Instant Messenger	Instant Messenger	"kopete -qwindowtitle %c %u"	UI	OnDisplay	Shown	application/x-kopete-emoticons, application/x-icq	Qt, KDE, Network, InstantMessaging	
+konqbrowser.desktop	Konqueror	Web Browser		"konqueror"	UI	OnDisplay	Shown		Qt, KDE, Network, WebBrowser	
+kcm_touchscreen.desktop	Touchscreen			"systemsettings kcm_touchscreen"	UI	NoDisplay	Shown			
+gcr-prompter.desktop	Access Prompt		Unlock access to passwords and other secrets	"/usr/libexec/gcr-prompter"	UI	NoDisplay	Shown			
+org.kde.kmouth.desktop	KMouth	Speech Synthesizer Frontend		"kmouth"	UI	OnDisplay	Shown		Qt, KDE, Utility, Accessibility	
+org.kde.plasmaengineexplorer.desktop	Plasma Engine Explorer	Plasma Data Engines Viewing Tool	Explorer for the data published by Plasma DataEngines	"plasmaengineexplorer"	UI	OnDisplay	Shown		Qt, KDE, Development, IDE	
+org.freedesktop.IBus.Setup.desktop	IBus Preferences		Set IBus Preferences	"ibus-setup"	UI	OnDisplay	Shown		Settings	keyboard, input
+org.kde.ktnef.desktop	KTnef	TNEF File Viewer (proprietary format used by outlook)	A viewer/extractor for TNEF files	"ktnef %f"	UI	OnDisplay	Shown	application/ms-tnef	Qt, KDE, X-KDE-Utilities-PIM, Office, Network, Email	
+org.kde.killbots.desktop	Killbots	Strategy Game with Robots	A KDE game of killer robots and teleportation.	"killbots -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, StrategyGame	
+org.kde.contactthemeeditor.desktop	Contact Theme Editor	Contact Theme Editor		"contactthemeeditor"	UI	OnDisplay	Shown		Qt, KDE, Office, Network, ContactManagement	
+kde_wacom_tabletfinder.desktop	Wacom Tablet finder	Helper tool to detect Wacom Tablets		"kde_wacom_tabletfinder"	UI	OnDisplay	Shown		Qt, KDE, Settings	
+audacious.desktop	Audacious	Music Player	Listen to music	"audacious %U"	UI	OnDisplay	Shown	application/ogg, application/x-cue, application/x-ogg, application/xspf+xml, audio/aac, audio/flac, audio/midi, audio/mp3, audio/mp4, audio/mpeg, audio/mpegurl, audio/ogg, audio/prs.sid, audio/wav, audio/x-flac, audio/x-it, audio/x-mod, audio/x-mp3, audio/x-mpeg, audio/x-mpegurl, audio/x-ms-asx, audio/x-ms-wma, audio/x-musepack, audio/x-s3m, audio/x-scpls, audio/x-stm, audio/x-vorbis+ogg, audio/x-wav, audio/x-wavpack, audio/x-xm, x-content/audio-cdda	AudioVideo, Audio, Player	
+org.kde.kmail-refresh-settings.desktop	KMail Refresh Settings	KMail refresh settings	Refresh KMail settings	"kmail-refresh-settings -qwindowtitle %c %u"	UI	OnDisplay	Hidden		Qt, KDE, Office, Network, Email	
+org.kde.akonadi_openxchange_resource.desktop	Open-Xchange Groupware Server			"akonadi_openxchange_resource"	UI	NoDisplay	Shown			
+org.kde.granatier.desktop	Granatier	Bomberman clone		"granatier"	UI	OnDisplay	Shown		Qt, KDE, Game, ArcadeGame	
+org.kde.kcachegrind.desktop	KCachegrind	Profiler Frontend	Visualization of Performance Profiling Data	"kcachegrind -qwindowtitle %c %u"	UI	OnDisplay	Shown	application/x-kcachegrind	Qt, KDE, Development	
+org.kde.bluedevilwizard.desktop	Add Bluetooth Device	Add Bluetooth Device	Add Bluetooth Device	"bluedevil-wizard %U"	UI	NoDisplay	Shown		Qt, KDE, X-Bluetooth, Network	
+wpa_gui.desktop	wpa_gui			"kdesu wpa_gui"	UI	OnDisplay	Shown		Qt, Network	
+org.kde.kcolorchooser.desktop	KColorChooser	Color Chooser	Color selector and palette editor	"kcolorchooser"	UI	OnDisplay	Shown		Qt, KDE, Graphics, X-KDE-More	
+org.kde.kcharselect.desktop	KCharSelect	Character Selector	Browse all unicode characters	"kcharselect --qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Utility	
+org.kde.spectacle.desktop	Spectacle	Screenshot Capture Utility	Screenshot capture utility	"/usr/bin/spectacle"	UI	OnDisplay	Shown		Qt, KDE, Utility	snapshot, capture, print, screenshot, snipping, snipping tool, snip
+gucharmap.desktop	Character Map		Insert special characters into documents	"gucharmap"	UI	OnDisplay	Shown		GNOME, GTK, Utility	font, unicode
+system-config-printer.desktop	Print Settings	Print Settings	Configure printers	"system-config-printer"	UI	OnDisplay	Shown		System, Settings, HardwareSettings, Printing, GTK	
+org.kde.kile.desktop	Kile	LaTeX Frontend	(La)TeX development environment	"kile %U"	UI	OnDisplay	Shown	text/x-tex, text/x-kilepr	Qt, KDE, Office, Publishing	
+xfce4-mail-reader.desktop	Mail Reader		Read your email	"exo-open --launch MailReader %u"	UI	OnDisplay	Shown		Network, X-XFCE, X-Xfce-Toplevel	
+kcm_autostart.desktop	Autostart			"systemsettings kcm_autostart"	UI	NoDisplay	Shown			
+blueman-manager.desktop	Bluetooth Manager		Blueman Bluetooth Manager	"blueman-manager"	UI	OnDisplay	Shown		GTK, GNOME, Settings, HardwareSettings	
+kcm_bluetooth.desktop	Bluetooth			"systemsettings kcm_bluetooth"	UI	NoDisplay	Shown			
+org.kde.knewstuff-dialog.desktop	KNewStuff Dialog		Showcase for KNewStuff add-on downloading functionality	"knewstuff-dialog"	UI	NoDisplay	Shown		Qt, KDE, Utility	
+org.gtk.gtk4.NodeEditor.desktop	Node Editor		An application that edits render nodes	"gtk4-node-editor"	UI	OnDisplay	Shown		Development, GTK	
+xfce-workspaces-settings.desktop	Workspaces		Configure layout, names and margins	"xfwm4-workspace-settings"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-PersonalSettings	workspaces, settings, preferences, virtual desktops, number, windows, screen, margins
+kcm_cron.desktop	Task Scheduler			"systemsettings kcm_cron"	UI	NoDisplay	Shown			
+org.kde.kblackbox.desktop	KBlackBox	Blackbox Logic Game		"kblackbox -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, BoardGame	
+org.kde.latte-dock.desktop	Latte	Dock	Dock for the masses	"/usr/bin/latte-dock"	UI	OnDisplay	Shown		Utility, X-SuSE-DesktopUtility	
+org.kde.plasmashell.desktop	Plasma Desktop Workspace			"/usr/bin/plasmashell"	UI	NoDisplay	Shown			
+xfce4-clipman-settings.desktop	Clipboard Manager Settings		Customize your clipboard	"xfce4-clipman-settings"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-PersonalSettings	
+kcm_baloofile.desktop	File Search			"systemsettings kcm_baloofile"	UI	NoDisplay	Shown			
+okularApplication_xps.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	NoDisplay	Shown	application/oxps, application/vnd.ms-xpsdocument	Qt, KDE, Graphics, Viewer	
+kcm_cursortheme.desktop	Cursors			"systemsettings kcm_cursortheme"	UI	NoDisplay	Shown			
+ibus-setup-anthy.desktop	IBus Anthy Setup		Set up IBus Anthy engine	"/usr/libexec/ibus-setup-anthy"	UI	NoDisplay	Shown			
+org.kde.kid3-qt.desktop	Kid3-qt	Audio Tagger	Edit audio file metadata	"kid3-qt %F"	UI	OnDisplay	Shown	audio/mpeg, audio/ogg, application/ogg, audio/x-flac, audio/x-flac+ogg, audio/x-vorbis+ogg, audio/x-speex+ogg, audio/x-oggflac, audio/x-musepack, audio/aac, audio/mp4, audio/x-speex, audio/x-tta, audio/x-wavpack, audio/x-aiff, audio/x-it, audio/x-mod, audio/x-s3m, audio/x-ms-wma, audio/x-wav, audio/x-xm, audio/opus, audio/x-opus+ogg, audio/x-dsf, inode/directory	Qt, AudioVideo, Audio, AudioVideoEditing	audio, id3, tag, editor, id3v1, id3v2, mp3
+xsnow.desktop	xsnow		Snow, Santa and birds on your desktop	"xsnow"	UI	OnDisplay	Shown		Game, Simulation	christmas, santa, snow, xmas
+qt5-designer.desktop	Qt5 Designer	Interface Designer	Design GUIs for Qt5 applications	"designer-qt5"	UI	OnDisplay	Shown	application/x-designer	Qt, Development	
+org.kde.kgpg.desktop	KGpg	Encryption Tool	A GnuPG frontend	"kgpg %U"	UI	OnDisplay	Shown	application/pgp-encrypted, application/pgp-signature, application/pgp-keys	Qt, KDE, Utility, X-KDE-Utilities-PIM	
+distccmon-gnome.desktop	distcc monitor	Distributed Compile Monitor	Graphical view of distributed compile tasks	"distccmon-gnome"	UI	OnDisplay	Shown		GNOME, GTK, Development	
+xfce-settings-manager.desktop	Settings Manager		Graphical Settings Manager for Xfce	"xfce4-settings-manager"	UI	OnDisplay	Shown		X-XFCE, Settings, DesktopSettings	control, panel, center, system, settings, personalize, hardware
+org.xfce.PanelProfiles.desktop	Panel Profiles		Backup and restore your panel configuration	"xfce4-panel-profiles"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE, X-XFCE-SettingsDialog, X-XFCE-PersonalSettings	Configuration, User
+lftp.desktop	lftp			"lftp"	Terminal	OnDisplay	Shown		Network	
+kcm_qtquicksettings.desktop	Plasma Renderer			"kcmshell5 kcm_qtquicksettings"	UI	NoDisplay	Shown			
+Player.desktop	QtAV Player	QtAV player	QtAV Multimedia Player	"Player -f %U"	UI	OnDisplay	Shown	application/ogg, application/x-ogg, application/sdp, application/smil, application/x-smil, application/streamingmedia, application/x-streamingmedia, application/vnd.rn-realmedia, application/vnd.rn-realmedia-vbr, audio/aac, audio/x-aac, audio/m4a, audio/x-m4a, audio/mp1, audio/x-mp1, audio/mp2, audio/x-mp2, audio/mp3, audio/x-mp3, audio/mpeg, audio/x-mpeg, audio/mpegurl, audio/x-mpegurl, audio/mpg, audio/x-mpg, audio/rn-mpeg, audio/scpls, audio/x-scpls, audio/vnd.rn-realaudio, audio/wav, audio/x-pn-windows-pcm, audio/x-realaudio, audio/x-pn-realaudio, audio/x-ms-wma, audio/x-pls, audio/x-wav, video/mpeg, video/x-mpeg, video/x-mpeg2, video/mp4, video/msvideo, video/x-msvideo, video/quicktime, video/vnd.rn-realvideo, video/x-ms-afs, video/x-ms-asf, video/x-ms-wmv, video/x-ms-wmx, video/x-ms-wvxvideo, video/x-avi, video/x-fli, video/x-flv, video/x-theora, video/x-matroska, video/webm, audio/x-flac, audio/x-vorbis+ogg, video/x-ogm+ogg, audio/x-shorten, audio/x-ape, audio/x-wavpack, audio/x-tta, audio/AMR, audio/ac3, video/mp2t, audio/flac	Qt, AudioVideo, Audio, Video, Player, TV	
+kcm_desktoppaths.desktop	Locations			"systemsettings kcm_desktoppaths"	UI	NoDisplay	Shown			
+org.kde.kuiviewer.desktop	KUIViewer	Qt Designer UI File Viewer	A quick viewer for Qt Designer UI File	"kuiviewer -qwindowtitle %c %u"	UI	OnDisplay	Shown	application/x-designer	Qt, KDE, Development	
+org.kde.kfourinline.desktop	KFourInLine	Four-in-a-row Board Game	Classic turn based game	"kfourinline"	UI	OnDisplay	Shown		Qt, KDE, Game, BoardGame	
+QMLPlayer.desktop	QtAV QML Player	QtAV QML player	QtAV Multimedia Player	"QMLPlayer -f %U"	UI	OnDisplay	Shown	application/ogg, application/x-ogg, application/sdp, application/smil, application/x-smil, application/streamingmedia, application/x-streamingmedia, application/vnd.rn-realmedia, application/vnd.rn-realmedia-vbr, audio/aac, audio/x-aac, audio/m4a, audio/x-m4a, audio/mp1, audio/x-mp1, audio/mp2, audio/x-mp2, audio/mp3, audio/x-mp3, audio/mpeg, audio/x-mpeg, audio/mpegurl, audio/x-mpegurl, audio/mpg, audio/x-mpg, audio/rn-mpeg, audio/scpls, audio/x-scpls, audio/vnd.rn-realaudio, audio/wav, audio/x-pn-windows-pcm, audio/x-realaudio, audio/x-pn-realaudio, audio/x-ms-wma, audio/x-pls, audio/x-wav, video/mpeg, video/x-mpeg, video/x-mpeg2, video/mp4, video/msvideo, video/x-msvideo, video/quicktime, video/vnd.rn-realvideo, video/x-ms-afs, video/x-ms-asf, video/x-ms-wmv, video/x-ms-wmx, video/x-ms-wvxvideo, video/x-avi, video/x-fli, video/x-flv, video/x-theora, video/x-matroska, video/webm, audio/x-flac, audio/x-vorbis+ogg, video/x-ogm+ogg, audio/x-shorten, audio/x-ape, audio/x-wavpack, audio/x-tta, audio/AMR, audio/ac3, video/mp2t, audio/flac	Qt, AudioVideo, Audio, Video, Player, TV	
+org.kde.kate.desktop	Kate	Advanced Text Editor	KDE Advanced Text Editor	"kate -b %U"	UI	OnDisplay	Shown	text/plain, inode/directory	Qt, KDE, Utility, TextEditor, Development	text, txt, editor, programming, programmer, development, developer, code
+okularApplication_pdf.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	NoDisplay	Shown	application/pdf, application/x-gzpdf, application/x-bzpdf, application/x-wwf	Qt, KDE, Graphics, Viewer	
+jstar.desktop	Joe's Own Editor - WordStar Emulation	Text Editor	View and edit files	"/usr/bin/jstar %F"	Terminal	OnDisplay	Shown	text/english, text/plain, text/x-makefile, text/x-c++hdr, text/x-c++src, text/x-chdr, text/x-csrc, text/x-java, text/x-moc, text/x-pascal, text/x-tcl, text/x-tex, application/x-shellscript, text/x-c, text/x-c++	Utility, Development, TextEditor	
+ibus-setup-libpinyin.desktop	IBus LibPinyin Setup		Set ibus-libpinyin Preferences	"/usr/libexec/ibus-setup-libpinyin libpinyin"	UI	NoDisplay	Shown			
+kcm_style.desktop	Application Style			"systemsettings kcm_style"	UI	NoDisplay	Shown			
+kmail_view.desktop	KMail view			"kmail --view %u"	UI	NoDisplay	Shown	message/rfc822, application/mbox, application/x-mimearchive		
+org.kde.mobile.okular_epub.desktop	Reader	Document viewer	Viewer for various types of documents	"okularkirigami %u"	UI	NoDisplay	Shown	application/epub+zip	Qt, KDE, Graphics, Office, Viewer	
+xboard-fen-viewer.desktop	Xboard	X-windows chess board	XBoard FEN display	"xboard -ncp -lpf %f"	UI	NoDisplay	Shown	application/x-chess-fen	Game, BoardGame	
+org.kde.sieveeditor.desktop	Sieve Editor	Editor for email filter Sieve scripts	Edit IMAP Sieve filters	"sieveeditor"	UI	OnDisplay	Shown		Qt, KDE, Office, Network, X-KDE-Sieve	
+org.kde.pimdataexporter.desktop	PIM Data Exporter	Saves and restores all data from PIM apps	PIM Setting Exporter allows to save all data from PIM apps and restore them in other systems.	"pimdataexporter"	UI	OnDisplay	Shown		Qt, KDE, Network, Email	
+org.kde.kirigami2.gallery.desktop	Kirigami Gallery		Shows examples of Kirigami components and allows you to play with them	"kirigami2gallery"	UI	OnDisplay	Shown		Qt, KDE, Development	
+xfce4-about.desktop	About Xfce		Information about the Xfce Desktop Environment	"xfce4-about"	UI	OnDisplay	Shown		Utility, X-XFCE, X-Xfce-Toplevel	
+gcr-viewer.desktop	View file			"/usr/bin/gcr-viewer"	UI	NoDisplay	Shown	application/pkcs12, application/pkcs12+pem, application/pkcs7-mime, application/pkcs7-mime+pem, application/pkcs8, application/pkcs8+pem, application/pkix-cert, application/pkix-cert+pem, application/pkix-crl, application/pkix-crl+pem, application/x-pem-file, application/x-pem-key, application/x-pkcs12, application/x-pkcs7-certificates, application/x-x509-ca-cert, application/x-x509-user-cert, application/pkcs10, application/pkcs10+pem, application/x-spkac, application/x-spkac+base64		
+org.kde.parley.desktop	Parley	Vocabulary Trainer	A program to help you memorize things.	"parley %u"	UI	OnDisplay	Shown	application/x-kvtml	Qt, KDE, Education, Languages	
+org.kde.kturtle.desktop	KTurtle	Educational Programming Environment	Educational Programming Environment	"kturtle -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Education, ComputerScience, X-KDE-Edu-Misc	
+org.kde.partitionmanager.desktop	KDE Partition Manager	Partition Editor	Manage disks, partitions, and file systems	"partitionmanager"	UI	OnDisplay	Shown		System, Filesystem, KDE, Qt	partition, disk
+org.kde.kalgebra.desktop	KAlgebra	Graph Calculator	Math Expression Solver and Plotter	"kalgebra %u"	UI	OnDisplay	Shown	application/x-kalgebra	Qt, KDE, Education, Math, Science	
+org.kde.plasma.settings.open.desktop	Open System Settings			"plasma-open-settings %u"	UI	NoDisplay	Shown	x-scheme-handler/systemsettings		
+org.kde.polkit-kde-authentication-agent-1.desktop	PolicyKit Authentication Agent		PolicyKit Authentication Agent	"/usr/lib64/libexec/polkit-kde-authentication-agent-1"	UI	NoDisplay	Shown			
+org.kde.kalzium.desktop	Kalzium	Periodic Table of Elements	KDE Periodic Table of Elements	"kalzium -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Education, Science, Chemistry	
+ibus-setup-hangul.desktop	IBus Hangul Preferences		Set IBus Hangul Preferences	"ibus-setup-hangul"	UI	NoDisplay	Shown		Settings	
+org.kde.akonadi_vcard_resource.desktop	vCard File			"akonadi_vcard_resource"	UI	NoDisplay	Shown			
+panel-desktop-handler.desktop	Create Launcher on the panel		Add a new launcher to the panel based on the information of this desktop file	"xfce4-panel --add=launcher %u"	UI	NoDisplay	Shown	application/x-desktop		
+org.kde.merkuro.calendar.desktop	Merkuro Calendar	Calendar	Manage your tasks and events with Calendar	"merkuro-calendar %u"	UI	OnDisplay	Shown	text/calendar	Qt, KDE, Office, Calendar	Kalendar,  Merkuro,  Events
+simplescreenrecorder.desktop	SimpleScreenRecorder		A feature-rich screen recorder that supports X11 and OpenGL	"simplescreenrecorder --logfile"	UI	OnDisplay	Shown		AudioVideo, Video, Recorder, Qt	screen recorder, screencast, live streaming, ssr
+kcm_keyboard.desktop	Keyboard			"systemsettings kcm_keyboard"	UI	NoDisplay	Shown			
+org.kde.ksirk.desktop	KsirK	World Domination Strategy Game		"ksirk -qwindowtitle %c -qwindowicon ksirk"	UI	OnDisplay	Shown		Qt, KDE, Game, StrategyGame	
+org.kde.kdevelop_svn.desktop	KDevelop (Fetch Subversion Project)	Integrated Development Environment		"kdevelop --ps --fetch %U"	UI	NoDisplay	Shown	x-scheme-handler/svn, x-scheme-handler/svn+ssh	Qt, KDE, Development, IDE	
+org.kde.ghostwriter.desktop	ghostwriter	Markdown Editor	Distraction-free text editor for Markdown	"ghostwriter %f"	UI	OnDisplay	Shown	text/plain, text/markdown, text/x-markdown	Qt, Office, WordProcessor	Markdown, editor, document, fullscreen, distraction, concentration, focused, writing
+gtk3-demo.desktop	GTK+ Demo		GTK+ code examples and demonstrations	"gtk3-demo"	UI	NoDisplay	Shown		Development, GTK	
+xfce4-terminal.desktop	Xfce Terminal	Terminal Emulator	Terminal Emulator	"xfce4-terminal"	UI	OnDisplay	Shown		GTK, System, TerminalEmulator	terminal, command line, prompt, cli, cmd, xterm, bash, shell, dos
+org.kde.umbrello.desktop	Umbrello	UML Modeller	Umbrello is a Unified Modelling Language (UML) modelling tool and code generator	"umbrello5 %u -caption %c"	UI	OnDisplay	Shown	application/x-uml, text/x-xmi	Qt, KDE, Development	
+org.kde.kig.desktop	Kig	Interactive Geometry	Explore Geometric Constructions	"kig %U --qwindowtitle %c"	UI	OnDisplay	Shown	application/x-kig, application/x-kgeo	Qt, KDE, Education, Math	
+org.kde.keditbookmarks.desktop	Bookmark Editor		Bookmark Organizer and Editor	"keditbookmarks"	UI	NoDisplay	Shown		Qt, KDE, Network, WebBrowser	
+korganizer-view.desktop	KOrganizer View		Display incidence specified by URL	"korganizer --view %u"	UI	NoDisplay	Shown	application/x-vnd.akonadi.calendar.event, application/x-vnd.akonadi.calendar.journal, application/x-vnd.akonadi.calendar.todo, text/calendar		
+org.kde.kinfocenter.desktop	Info Center	Info Center	Centralized and convenient overview of system information	"kinfocenter"	UI	OnDisplay	Shown		Qt, KDE, System	kinfocenter
+kcm_kded.desktop	Background Services			"systemsettings kcm_kded"	UI	NoDisplay	Shown			
+org.kde.kapman.desktop	Kapman	Pac-Man Clone	Eat pills escaping ghosts	"kapman"	UI	OnDisplay	Shown		Qt, KDE, Game, ArcadeGame	
+gpa.desktop	gpa	GNU Privacy Assistant		"gpa %f"	UI	OnDisplay	Shown	application/pgp-encrypted, application/pgp-signature	GTK, Application, Security, Utility	
+org.kde.kdeconnect_open.desktop	Open on connected device via KDE Connect	Open on connected device via KDE Connect	Open on a connected device using KDE Connect	"kdeconnect-handler --open %U"	UI	OnDisplay	Shown	application/octet-stream	Qt, KDE, Network	
+zenmap.desktop	Zenmap	GUI Port Scanner	A cross-platform GUI for the Nmap Security Scanner.	"zenmap %F"	UI	OnDisplay	Shown		Application, Network, Security	network, scan, scanner, IP, security
+kcm_icons.desktop	Icons			"systemsettings kcm_icons"	UI	NoDisplay	Shown			
+org.kde.kjots.desktop	KJots	Note Taker	Note Taker	"kjots -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Utility, X-KDE-Utilities-PIM	
+org.kde.kreversi.desktop	KReversi	Reversi Board Game		"kreversi -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, BoardGame	
+org.kde.kdeconnect.daemon.desktop	KDE Connect			"/usr/lib64/libexec/kdeconnectd"	UI	NoDisplay	Shown			
+org.kde.kollision.desktop	Kollision	A simple ball dodging game		"kollision"	UI	OnDisplay	Shown		Qt, KDE, Game, ArcadeGame	
+org.kde.merkuro.mail.desktop	Merkuro Mail	EMail Client	Manage your e-mails with Merkuro Mail	"merkuro-mail"	UI	NoDisplay	Shown		Qt, KDE, Office, Email	
+org.kde.kdevelop_git.desktop	KDevelop (Fetch git Project)	Integrated Development Environment		"kdevelop --ps --fetch %U"	UI	NoDisplay	Shown	x-scheme-handler/git, x-scheme-handler/git+ssh	Qt, KDE, Development, IDE	
+kcm_kdeconnect.desktop	KDE Connect			"systemsettings kcm_kdeconnect"	UI	NoDisplay	Shown			
+blueman-adapters.desktop	Bluetooth Adapters		Set Bluetooth Adapter Properties	"blueman-adapters"	UI	OnDisplay	Shown		X-XFCE, Settings, HardwareSettings, X-XFCE-SettingsDialog, GTK	
+kcm_regionandlang.desktop	Region & Language			"systemsettings kcm_regionandlang"	UI	NoDisplay	Shown			
+org.kde.kigo.desktop	Kigo	Go Board Game		"kigo %u -qwindowicon kigo -qwindowtitle %c"	UI	OnDisplay	Shown	application/x-go-sgf	Qt, KDE, Game, BoardGame	
+org.kde.mobile.okular_fb.desktop	Reader	Document viewer	Viewer for various types of documents	"okularkirigami %u"	UI	NoDisplay	Shown	application/x-fictionbook+xml	Qt, KDE, Graphics, Office, Viewer	
+org.kde.akonadiconsole.desktop	Akonadi Console		Akonadi Management and Debugging Console	"akonadiconsole"	UI	OnDisplay	Shown		Qt, KDE, Development	
+org.kde.onlinequoteseditor5.desktop	Online Quotes Editor	Editor for online price quotes	Editor for online price quotes used by finance applications	"onlinequoteseditor5"	UI	OnDisplay	Shown		Qt, KDE, Office, Finance	
+org.kde.kiten.desktop	Kiten	Japanese Reference/Study Tool	Japanese Reference and Study Tool	"kiten -qwindowtitle %c -qwindowicon kiten"	UI	OnDisplay	Shown		Qt, KDE, Education, Languages	
+ibus-setup-libbopomofo.desktop	IBus LibBopomofo Preferences		Set ibus-libbopomofo Preferences	"/usr/libexec/ibus-setup-libpinyin libbopomofo"	UI	NoDisplay	Shown			
+org.kde.kbounce.desktop	KBounce	Ball Bouncing Game	Ball Bouncing Game	"kbounce -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, ArcadeGame	
+org.kde.rocs.desktop	Rocs	Rocs Graph Theory	Graph Theory Tool for Professors and Students.	"rocs %u -qwindowtitle %c"	UI	OnDisplay	Shown	application/x-rocs	Qt, KDE, Education, Science, Math	
+thunar-settings.desktop	File Manager Settings		Configure the Thunar file manager	"thunar-settings"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-PersonalSettings	thunar, settings, preferences, configure, thumbnails, file size, date format, shortcuts pane, tree view, tabs
+org.kde.akonadi_davgroupware_resource.desktop	DAV Groupware			"akonadi_davgroupware_resource"	UI	NoDisplay	Shown			
+org.freedesktop.impl.portal.desktop.kde.desktop	Portal			"/usr/lib64/libexec/xdg-desktop-portal-kde"	UI	NoDisplay	Shown			
+kfmclient_html.desktop	Konqueror			"kfmclient --mimetype text/html openURL %u"	UI	NoDisplay	Shown	text/html, application/xhtml+xml, application/xml, x-scheme-handler/http, x-scheme-handler/https	Qt, KDE, Network, WebBrowser	
+bookmarks.desktop	Bookmarks		Configure the bookmarks home page	""	UI	OnDisplay	Shown			
+kcm_joystick.desktop	Game Controller			"systemsettings kcm_joystick"	UI	NoDisplay	Shown			
+org.kde.kwikdisk.desktop	KwikDisk	Removable Media Utility	Panel icon to mount and unmount disks	"kwikdisk -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, System	
+org.kde.step.desktop	Step	Interactive Physical Simulator	Simulate physics experiments	"step -qwindowtitle %c -qwindowicon step"	UI	OnDisplay	Shown	application/x-step	Qt, KDE, Education, Physics	
+breezestyleconfig.desktop	Breeze Widget Style			"kcmshell5 breezestyleconfig"	UI	NoDisplay	Shown			
+xboard-config.desktop	Xboard	X-windows chess board	Start preconfigured XBoard	"xboard -opt %f"	UI	NoDisplay	Shown	application/x-xboard-opt	Game, BoardGame	
+org.kde.kolourpaint.desktop	KolourPaint	Paint Program	An easy-to-use paint program	"kolourpaint %u"	UI	OnDisplay	Shown	application/x-krita, application/x-navi-animation, image/avif, image/bmp, image/gif, image/heif, image/jpeg, image/jxl, image/openraster, image/png, image/svg+xml, image/svg+xml-compressed, image/tiff, image/vnd.adobe.photoshop, image/vnd.microsoft.icon, image/vnd.wap.wbmp, image/webp, image/x-eps, image/x-exr, image/x-hdr, image/x-icns, image/x-mng, image/x-pcx, image/x-pic, image/x-portable-bitmap, image/x-portable-graymap, image/x-portable-pixmap, image/x-rgb, image/x-sun-raster, image/x-tga, image/x-xbitmap, image/x-xcf, image/x-xpixmap	Qt, KDE, Graphics, 2DGraphics, RasterGraphics	
+org.kde.itinerary.desktop	KDE Itinerary	Itinerary management	Travel assistance application.	"itinerary %f"	UI	OnDisplay	Shown	application/vnd.apple.pkpass, application/ld+json, application/pdf, text/calendar, text/html, application/json, message/rfc822, application/vnd.kde.itinerary	Qt, KDE, Utility	
+xfce-mouse-settings.desktop	Mouse and Touchpad		Configure pointer device behavior and appearance	"xfce4-mouse-settings"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-HardwareSettings	settings, buttons, scroll, direction, pointer, speed, double click, theme, wheel
+org.kde.kteatime.desktop	KTeaTime	Tea Cooker		"kteatime"	UI	OnDisplay	Shown		Qt, KDE, Utility	
+kcm_nightcolor.desktop	Night Color			"systemsettings kcm_nightcolor"	UI	NoDisplay	Shown			
+org.kde.minuet.desktop	Minuet	Music Education Software		"minuet"	UI	OnDisplay	Shown		Qt, KDE, Education, Music, X-KDE-Edu-Misc	
+org.kde.plasmawindowed.desktop	Plasma Windowed		Run Plasmoids as simple applications	"/usr/bin/plasmawindowed"	UI	NoDisplay	Shown			
+org.kde.cantor.desktop	Cantor	Frontend to Mathematical Software	KDE Frontend to Mathematical Software	"cantor -qwindowicon cantor -qwindowtitle %c %U"	UI	OnDisplay	Shown	application/x-cantor	Qt, KDE, Education, Math, Science	
+org.freedesktop.IBus.Panel.Extension.Gtk3.desktop	Emoji Choice			"/usr/libexec/ibus-extension-gtk3"	UI	NoDisplay	Shown			
+org.kde.kget.desktop	KGet	Download Manager	KGet is a versatile and user-friendly download manager	"kget -qwindowtitle %c %U"	UI	OnDisplay	Shown	application/metalink+xml, application/x-bittorrent	Qt, KDE, Network, FileTransfer	
+org.kde.kwave.desktop	Kwave Sound Editor	Sound Editor	A sound editor by KDE	"kwave %F"	UI	OnDisplay	Shown	audio/wav, audio/x-wav, audio/basic, audio/x-8svx, audio/x-aifc, audio/x-aiff, audio/x-avr, audio/x-caf, audio/x-ircam, audio/x-nist, audio/x-smp, audio/x-voc, audio/mpeg, audio/x-mp1, audio/x-mp2, audio/x-mp3, application/x-flac, audio/x-flac, audio/ogg, application/ogg, audio/x-ogg, application/x-ogg, audio/x-vorbis+ogg, audio/opus	Qt, KDE, AudioVideo, Audio, Player, Recorder, AudioVideoEditing	
+xfce-wm-settings.desktop	Window Manager		Configure window behavior and shortcuts	"xfwm4-settings"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-PersonalSettings	windows, management, settings, preferences, themes, styles, decorations, title bar, font, buttons, menu, minimize, maximize, shade, roll up, layout, keyboard shortcuts, focus, snapping, screen, workspaces, edges, corner, hide content, move, resize, moving, resizing, double click
+mozilla-thunderbird.desktop	Thunderbird	Mail Client		"thunderbird"	UI	OnDisplay	Shown		Application, Network	
+org.kde.mobile.okular_chm.desktop	Reader	Document viewer	Viewer for various types of documents	"okularkirigami %u"	UI	NoDisplay	Shown	application/x-chm	Qt, KDE, Graphics, Office, Viewer	
+org.kde.merkuro.contact.desktop	Merkuro Contacts	Address Book	Manage your contacts with Merkuro Contacts	"merkuro-contact"	UI	OnDisplay	Shown		Qt, KDE, Office, ContactManagement	
+kcm_powerdevilglobalconfig.desktop	Advanced Power Settings			"systemsettings kcm_powerdevilglobalconfig"	UI	NoDisplay	Shown			
+xfce4-terminal-settings.desktop	Xfce Terminal Settings		Configure Xfce Terminal	"xfce4-terminal --preferences"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-PersonalSettings	terminal, settings, preferences, configuration, configure
+org.kde.kbackup.desktop	KBackup	Backup Program	Backup your data with an easy to use user interface	"kbackup %f"	UI	OnDisplay	Shown	text/x-kbp	Qt, KDE, Utility, Archiving	backup, archiving
+openstreetmap-geo-handler.desktop	OpenStreetMap			"kde-geo-uri-handler --coordinate-template "https://www.openstreetmap.org/#map=<Z>/<LAT>/<LON>" --query-template "https://www.openstreetmap.org/search?query=<Q>" --fallback "https://www.openstreetmap.org" %u"	UI	NoDisplay	Shown	x-scheme-handler/geo		
+xfce-ui-settings.desktop	Appearance		Customize the look of your desktop	"xfce4-appearance-settings"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-PersonalSettings	themes, user interface, styles, icons, fonts, anti-aliasing, hinting, sub-pixel, subpixel, rendering, ClearType, DPI, RGB, BGR, menu accelerators, keyboard shortcuts, event, sounds, window scaling, HiDPI, Retina display
+kcm_audiocd.desktop	Audio CDs			"systemsettings kcm_audiocd"	UI	NoDisplay	Shown			
+compiz.desktop	Compiz			"compiz ccp"	UI	NoDisplay	Shown			
+org.kde.kiriki.desktop	Kiriki	Yahtzee-like Dice Game		"kiriki -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, BoardGame	
+xfce-session-settings.desktop	Session and Startup		Customize desktop startup	"xfce4-session-settings"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-SystemSettings	session, settings, preferences, manager, startup, login, logout, shutdown, lock screen, application, autostart, launch, services, daemon, agent
+org.kde.kwalletd5.desktop	KDE Wallet Service			"kwalletd5"	UI	NoDisplay	Shown			
+xboard-tourney.desktop	Xboard	X-windows chess board	Resume XBoard chess tourney	"xboard -mm -tf %f"	UI	NoDisplay	Shown	application/x-xboard-trn	Game, BoardGame	
+org.kde.kmail2.desktop	KMail	Mail Client	Send, receive and manage your mail with KMail	"kmail -qwindowtitle %c %u"	UI	OnDisplay	Shown	x-scheme-handler/mailto	Qt, KDE, Office, Network, Email	
+org.kde.juk.desktop	JuK	Music Player		"juk %U"	UI	OnDisplay	Shown		Qt, KDE, AudioVideo, Player	
+org.kde.kgoldrunner.desktop	KGoldrunner	Hunt Gold, Dodge Enemies and Solve Puzzles	A game of action and puzzle-solving	"kgoldrunner"	UI	OnDisplay	Shown		Qt, KDE, Game, ArcadeGame	
+kcm_activities.desktop	Activities			"systemsettings kcm_activities"	UI	NoDisplay	Shown			
+org.kde.mobile.okular_tiff.desktop	Reader	Document viewer	Viewer for various types of documents	"okularkirigami %u"	UI	NoDisplay	Shown	image/tiff	Qt, KDE, Graphics, Office, Viewer	
+org.kde.mobile.okular_dvi.desktop	Reader	Document viewer	Viewer for various types of documents	"okularkirigami %u"	UI	NoDisplay	Shown	application/x-dvi, application/x-gzdvi, application/x-bzdvi	Qt, KDE, Graphics, Office, Viewer	
+org.kde.plasma.emojier.desktop	Emoji Selector			"plasma-emojier"	UI	OnDisplay	Shown		Qt, KDE, Utility	characters, unicode, punctuation, letters, emoji, emoticon, symbols, smiley face
+kcm_componentchooser.desktop	Default Applications			"systemsettings kcm_componentchooser"	UI	NoDisplay	Shown			
+org.kde.kspaceduel.desktop	KSpaceDuel	Space Arcade Game		"kspaceduel -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, ArcadeGame	
+kcm_tablet.desktop	Drawing Tablet			"systemsettings kcm_tablet"	UI	NoDisplay	Shown			
+xsane.desktop	XSane	Scanner Tool	Acquire images from a scanner	"xsane"	UI	OnDisplay	Shown		Graphics, 2DGraphics, RasterGraphics, Scanning, GTK	
+xfce4-run.desktop	Run Program...		Enter a command you want to launch	"xfce4-appfinder --collapsed"	UI	OnDisplay	Shown		Utility, X-XFCE, X-Xfce-Toplevel	run, command, application, program, finder, search, launcher, everything, spotlight, sherlock, applesearch, unity dash, krunner, synapse, ulauncher, launchy, gnome do, pie, apwal, recoll, alfred, quicksilver, tracker, beagle, kupfer
+org.kde.kdevelop.desktop	KDevelop	Integrated Development Environment		"kdevelop"	UI	OnDisplay	Shown		Qt, KDE, Development, IDE	
+kcm_recentFiles.desktop	Recent Files			"systemsettings kcm_recentFiles"	UI	NoDisplay	Shown			
+xfce4-mime-settings.desktop	Default Applications		Associate preferred applications with MIME types	"xfce4-mime-settings"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-SystemSettings	file, type, extension, association, open with, web browser, mail reader, file manager, terminal emulator
+xfce-wmtweaks-settings.desktop	Window Manager Tweaks		Fine-tune window behaviour and effects	"xfwm4-tweaks-settings"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-PersonalSettings	windows, behavior, settings, preferences, cycling, cycle, switching, focus, raises, accessibility, key, dragging, move, moving, hide, frame, title bar, maximized, tile, screen, edge, hot corner, snapping, mouse wheel, roll up, workspaces, placement, compositor, compositing, enable, disable, shadows, decorations, opacity, resize, inactive, preview, compiz, transitions
+zenmap-root.desktop	Zenmap (as root)	GUI Port Scanner	A cross-platform GUI for the Nmap Security Scanner.	"/usr/share/zenmap/su-to-zenmap.sh %F"	UI	OnDisplay	Shown		Application, Network, Security	network, scan, scanner, IP, security
+kleopatra_import.desktop	Kleopatra		Certificate Manager and Unified Crypto GUI	"kleopatra --import-certificate -- %F"	UI	NoDisplay	Shown	application/pkcs7-mime, application/x-x509-ca-cert, application/x-pkcs12, application/pgp-keys, application/vnd.kde.kleopatra.keygroup	Qt, KDE, Utility, X-KDE-Utilities-PIM	
+korganizer-import.desktop	KOrganizer	Personal Organizer	Calendar and Scheduling Program	"korganizer --import %U"	UI	NoDisplay	Shown			
+ibus-setup-table.desktop	IBus Table Setup		Set ibus-table preferences	"/usr/libexec/ibus-setup-table"	UI	NoDisplay	Shown			
+org.kde.kjumpingcube.desktop	KJumpingCube	Territory Capture Game	Territory Capture Game	"kjumpingcube -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, StrategyGame	
+cmake-gui.desktop	CMake		Cross-platform buildsystem	"cmake-gui %f"	UI	OnDisplay	Shown	application/x-cmakecache	Development, Building	
+kcm_kwinoptions.desktop	Window Behavior			"systemsettings kcm_kwinoptions"	UI	NoDisplay	Shown			
+kcm_trash.desktop	Trash			"kcmshell5 kcm_trash"	UI	NoDisplay	Shown			
+gtk3-icon-browser.desktop	Icon Browser		An application that shows themed icons	"gtk3-icon-browser"	UI	NoDisplay	Shown		Development, GTK	
+org.kde.skanlite.desktop	Skanlite	Image Scanning Application	Scan and save images	"skanlite"	UI	OnDisplay	Shown		Qt, KDE, Graphics, Scanning	
+vncviewer.desktop	TigerVNC Viewer	Remote Desktop Viewer	Connect to VNC server and display remote desktop	"/usr/bin/vncviewer"	UI	OnDisplay	Shown		Network, RemoteAccess	
+org.kde.kmix.desktop	KMix	Sound Mixer	Control sound volumes	"kmix -qwindowtitle "%c" %i"	UI	OnDisplay	Shown		Qt, KDE, AudioVideo, Audio, Mixer	
+org.kde.kmenuedit.desktop	Menu Editor		Edit how applications are presented in app launchers	"kmenuedit"	UI	OnDisplay	Shown		Qt, KDE, System	
+xfce4-taskmanager.desktop	Task Manager	Task Manager	Easy to use application to monitor system resources	"xfce4-taskmanager"	UI	OnDisplay	Shown		System, Utility	
+org.kde.bomber.desktop	Bomber	Arcade Bombing Game		"bomber -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, ArcadeGame	
+org.kde.keysmith.desktop	Keysmith		Manage your OTP tokens for two factor authentication (2fa)	"keysmith %u"	UI	OnDisplay	Shown	x-scheme-handler/otpauth	Qt, KDE, Utility	
+org.kde.ktimetracker.desktop	KTimeTracker	Personal Time Tracker		"ktimetracker"	UI	OnDisplay	Shown		Qt, KDE, Utility, Office, Monitor, X-KDE-Utilities-PIM	
+org.kde.kruler.desktop	KRuler	Screen Ruler	Pixel measuring tool for screens	"kruler"	UI	OnDisplay	Shown		Qt, KDE, Utility, Graphics, X-KDE-More	
+gparted.desktop	GParted	Partition Editor	Create, reorganize, and delete partitions	"/usr/bin/gparted %f"	UI	OnDisplay	Shown		GNOME, System, Filesystem	Partition
+okularApplication_fax.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	NoDisplay	Shown	image/fax-g3, image/g3fax	Qt, KDE, Graphics, Viewer	
+ibus-setup-m17n.desktop	IBus M17N Setup		Set up IBus M17N engine	"/usr/libexec/ibus-setup-m17n"	UI	NoDisplay	Shown			
+okularApplication_fb.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	NoDisplay	Shown	application/x-fictionbook+xml	Qt, KDE, Graphics, Viewer	
+org.kde.akonadiimportwizard.desktop	KMail Import Wizard		Launch the import wizard to migrate data from mailer as thunderbird/evolution etc.	"akonadiimportwizard"	UI	OnDisplay	Shown		Qt, KDE, Utility, X-KDE-Utilities-PIM	
+xfce4-terminal-emulator.desktop	Terminal Emulator		Use the command line	"exo-open --launch TerminalEmulator"	UI	OnDisplay	Shown		Utility, X-XFCE, X-Xfce-Toplevel	
+xine.desktop	xine		Video Player	"xine %U"	UI	OnDisplay	Shown	application/annodex, application/flac, application/ogg, application/smil, application/vnd.ms-asf, application/vnd.rn-realmedia, application/x-annodex, application/x-flac, application/x-flash-video, application/x-mplayer2, application/x-ogg, application/x-ogm, application/x-ogm-audio, application/x-ogm-video, application/x-quicktimeplayer, application/xspf+xml, audio/168sv, audio/8svx, audio/ac3, audio/aiff, audio/annodex, audio/basic, audio/flac, audio/mp3, audio/mp4, audio/mpeg, audio/mpeg2, audio/mpeg3, audio/mpegurl, audio/mpegurl, audio/musepack, audio/ogg, audio/opus, audio/wav, audio/x-16sv, audio/x-8svx, audio/x-aiff, audio/x-annodex, audio/x-basic, audio/x-flac, audio/x-m4a, audio/x-mp3, audio/x-mpeg, audio/x-mpeg2, audio/x-mpeg3, audio/x-mpegurl, audio/x-mpegurl, audio/x-ms-wax, audio/x-ms-wma, audio/x-ms-wvx, audio/x-musepack, audio/x-ogg, audio/x-pn-aiff, audio/x-pn-au, audio/x-pn-realaudio, audio/x-pn-realaudio-plugin, audio/x-pn-wav, audio/x-pn-windows-acm, audio/x-real-audio, audio/x-realaudio, audio/x-scpls, audio/x-wav, audio/x-wavpack, image/ilbm, image/png, image/x-ilbm, image/x-png, video/anim, video/annodex, video/flv, video/mkv, video/mng, video/mp2p, video/mp2t, video/mp4, video/mpeg, video/msvideo, video/ogg, video/quicktime, video/webm, video/x-anim, video/x-annodex, video/x-flic, video/x-flv, video/x-matroska, video/x-mng, video/x-mpeg, video/x-ms-asf, video/x-ms-asf-plugin, video/x-ms-wax, video/x-ms-wmv, video/x-ms-wvx, video/x-msvideo, video/x-ogg, video/x-quicktime, x-content/audio-cdda, x-content/video-dvd, x-content/video-svcd, x-content/video-vcd	Application, AudioVideo, Player	
+geeqie.desktop	Geeqie	Image Viewer	View and manage images	"geeqie -r %F"	UI	OnDisplay	Shown	application/x-navi-animation, image/bmp, image/x-bmp, image/x-MS-bmp, image/gif, image/x-icon, image/jpeg, image/png, image/x-portable-anymap, image/x-portable-bitmap, image/x-portable-graymap, image/x-portable-pixmap, image/x-tga, image/tiff, image/x-xbitmap, image/x-xpixmap, image/svg, image/svg+xml, image/x-png, image/xpm, image/x-ico	Graphics, Viewer	
+xaos.desktop	XaoS	Fractal generator	Realtime fractal zoomer	"xaos"	UI	OnDisplay	Shown		Education, Science, Math	
+kaddressbook-view.desktop	KAddressBook View		Display contact specified by URL	"kaddressbook --view %u"	UI	NoDisplay	Shown	text/directory, application/x-vnd.kde.contactgroup	Qt, KDE, Office, ContactManagement	
+jpico.desktop	Joe's Own Editor - NANO/PICO Emulation	Text Editor	View and edit files	"/usr/bin/jpico %F"	Terminal	OnDisplay	Shown	text/english, text/plain, text/x-makefile, text/x-c++hdr, text/x-c++src, text/x-chdr, text/x-csrc, text/x-java, text/x-moc, text/x-pascal, text/x-tcl, text/x-tex, application/x-shellscript, text/x-c, text/x-c++	Utility, Development, TextEditor	
+kcm_splashscreen.desktop	Splash Screen			"systemsettings kcm_splashscreen"	UI	NoDisplay	Shown			
+okularApplication_kimgio.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	NoDisplay	Shown	image/bmp, image/x-dds, image/x-eps, image/x-exr, image/gif, image/x-hdr, image/x-ico, image/jp2, image/jpeg, video/x-mng, image/x-portable-bitmap, image/x-pcx, image/x-portable-graymap, image/png, image/x-portable-pixmap, image/x-psd, image/x-rgb, image/x-tga, image/tiff, image/x-xbitmap, image/x-xcf, image/x-xpixmap, image/x-gzeps, image/x-bzeps, image/avif, image/heif, image/webp, image/jxl	Qt, KDE, Graphics, Viewer	
+marble_geo.desktop	Marble			"marble --geo-uri=%u"	UI	NoDisplay	Shown	x-scheme-handler/geo		
+org.kde.kdialog.desktop	KDialog			"kdialog"	UI	NoDisplay	Shown			
+org.kde.krename.desktop	KRename		A batch renamer	"krename -qwindowtitle "%c" %U"	UI	OnDisplay	Shown		Qt, KDE, Utility	
+org.freedesktop.Xwayland.desktop	Xwayland		A rootful instance of the Xwayland X11 server	""	UI	NoDisplay	Shown		System	
+konsolekalendar.desktop	KonsoleKalendar			"kdialog --sorry "konsolekalendar is a command-line only program.  Please read the handbook at help:/konsolekalendar for more info.""	UI	NoDisplay	Shown		Qt, KDE, Utility, X-KDE-More	
+org.kde.kwalletmanager5.desktop	KWalletManager	KDE Wallet Management Tool	KDE Wallet Management Tool	"kwalletmanager5 %F"	UI	OnDisplay	Shown	application/x-kwallet	Qt, KDE, System, Security	
+org.kde.kded5.desktop	KDED			""	UI	NoDisplay	Shown			
+org.kde.kubrick.desktop	Kubrick	3-D Game based on Rubik's Cube	A 3-D game based on Rubik's Cube	"kubrick"	UI	OnDisplay	Shown		Qt, KDE, Game, LogicGame	
+org.kde.kitenkanjibrowser.desktop	Kanji Browser			"kitenkanjibrowser"	UI	NoDisplay	Shown		Qt, KDE, Education, Languages	
+okularApplication_chm.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	NoDisplay	Shown	application/x-chm	Qt, KDE, Graphics, Viewer	
+org.kde.kolf.desktop	Kolf	Miniature Golf		"kolf %U"	UI	OnDisplay	Shown	application/x-kourse, application/x-kolf	Qt, KDE, Game, ArcadeGame	
+org.kde.showfoto.desktop	showFoto	Photo Viewer and Editor	Manage your photographs like a professional with the power of open source	"showfoto -qwindowtitle %c %U"	UI	OnDisplay	Shown	image/gif, image/x-xpixmap, image/x-xbitmap, image/jpeg, image/png, image/tiff, image/x-bmp, image/x-psd, image/x-portable-bitmap, image/x-portable-pixmap, image/x-portable-graymap, image/x-dcraw, image/heif, image/heic	Qt, Graphics, Photography	
+org.gtk.PrintEditor4.desktop	Print Editor		A simple editor demonstrating GTK printing	"gtk4-print-editor %f"	UI	OnDisplay	Shown		Development, GTK	
+org.kde.krfb.virtualmonitor.desktop	KRFBs Virtual Monitor		Remote Virtual Monitor	"/usr/bin/krfb-virtualmonitor"	UI	NoDisplay	Shown			
+kcm_kwintabbox.desktop	Task Switcher			"systemsettings kcm_kwintabbox"	UI	NoDisplay	Shown			
+org.kde.mobile.okular_fax.desktop	Reader	Document viewer	Viewer for various types of documents	"okularkirigami %u"	UI	NoDisplay	Shown	image/fax-g3, image/g3fax	Qt, KDE, Graphics, Office, Viewer	
+org.kde.knights.desktop	Knights	Chess game		"knights -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, BoardGame	
+kcm_about-distro.desktop	About this System			"systemsettings kcm_about-distro"	UI	NoDisplay	Shown			
+kcm_networkmanagement.desktop	Connections			"systemsettings kcm_networkmanagement"	UI	NoDisplay	Shown			
+xboard-pgn-viewer.desktop	Xboard	X-windows chess board	Run XBoard as PGN viewer	"xboard -viewer -lgf %f"	UI	NoDisplay	Shown	application/x-chess-pgn	Game, BoardGame	
+org.kde.plasma-systemmonitor.desktop	System Monitor	System Monitor		"plasma-systemmonitor"	UI	OnDisplay	Shown		Qt, KDE, System	task, manager, process, cpu, memory
+qwant-maps-geo-handler.desktop	Qwant Maps			"kde-geo-uri-handler --coordinate-template "https://www.qwant.com/maps/#map=<Z>/<LAT>/<LON>" --query-template "https://www.qwant.com/maps/?q=<Q>&client=opensearch" --fallback "https://www.qwant.com/maps/" %u"	UI	NoDisplay	Shown	x-scheme-handler/geo		
+org.kde.kbruch.desktop	KBruch	Exercise Fractions	Practice exercises with fractions	"kbruch -qwindowtitle %c -qwindowicon kbruch"	UI	OnDisplay	Shown		Qt, KDE, Education, Math	
+org.kde.kdeconnect.handler.desktop	KDE Connect			"kdeconnect-handler %U"	UI	NoDisplay	Shown	x-scheme-handler/tel, x-scheme-handler/sms		
+org.kde.kcalc.desktop	KCalc	Scientific Calculator	Calculator which offers many mathematical functions, such as trigonometric functions, logic operations, and statistical calculations	"kcalc"	UI	OnDisplay	Shown		Qt, KDE, Utility, Calculator, X-KDE-Utilities-Desktop	
+org.kde.kdeconnect.nonplasma.desktop	KDE Connect Indicator		Display information about your devices	"kdeconnect-indicator"	UI	OnDisplay	Shown		Qt, KDE, Network	
+xfce4-web-browser.desktop	Web Browser		Browse the web	"exo-open --launch WebBrowser %u"	UI	OnDisplay	Shown		Network, X-XFCE, X-Xfce-Toplevel	
+kcm_pulseaudio.desktop	Audio			"systemsettings kcm_pulseaudio"	UI	NoDisplay	Shown			
+org.kde.kdf.desktop	KDiskFree	View Disk Usage	Displays information about hard disks and other storage devices	"kdf -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, System	
+org.kde.khangman.desktop	KHangMan	Hangman Game	KDE Hangman Game	"khangman -qwindowtitle "%c""	UI	OnDisplay	Shown		Qt, KDE, Education, Languages, Game, KidsGame	
+kcm_firewall.desktop	Firewall			"systemsettings kcm_firewall"	UI	NoDisplay	Shown			
+org.kde.akonadi_imap_resource.desktop	Emails			"akonadi_imap_resource"	UI	NoDisplay	Shown			
+org.kde.kalarm.desktop	KAlarm	Personal Alarm Scheduler		"kalarm"	UI	OnDisplay	Shown		Qt, KDE, Utility, X-KDE-Utilities-PIM	
+kdesystemsettings.desktop	KDE System Settings	KDE System Settings	Configuration tools for your computer	"systemsettings5"	UI	OnDisplay	Shown		Qt, KDE, Settings	
+org.kde.kdebugsettings.desktop	KDebugSettings	Debug settings	Configure debug output from Qt applications	"kdebugsettings"	UI	OnDisplay	Shown		Qt, KDE, Development	log, logging, category, categories, journal, logging levels, debug
+org.kde.plasmoidviewer.desktop	Plasmoidviewer	Plasma Widget Testing Tool	Testing tool for Plasma applets	"plasmoidviewer"	UI	NoDisplay	Shown		Qt, KDE, Development, IDE	
+org.kde.accountwizard.desktop	Account Wizard		Launch the account wizard to configure PIM accounts.	"accountwizard --package %u"	UI	NoDisplay	Shown	application/x-accountwizard-package		
+org.kde.yakuake.desktop	Yakuake	Drop-down Terminal	A drop-down terminal emulator based on KDE Konsole technology.	"yakuake"	UI	OnDisplay	Shown		Qt, KDE, System, TerminalEmulator	
+org.kde.falkon.desktop	Falkon	Web Browser	A fast and secure web browser	"falkon %u"	UI	OnDisplay	Shown	text/html, application/xhtml+xml, x-scheme-handler/http, x-scheme-handler/https, x-scheme-handler/ftp, application/x-mimearchive	Network, WebBrowser	
+org.kde.klines.desktop	Kolor Lines	Tactical Game	Tactical game	"klines -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, StrategyGame	
+ktelnetservice5.desktop	KTelnetService			"ktelnetservice5 %u"	UI	NoDisplay	Shown	x-scheme-handler/telnet, x-scheme-handler/rlogin, x-scheme-handler/ssh		
+org.fcitx.Fcitx5.desktop	Fcitx 5	Input Method	Start Input Method	"/usr/bin/fcitx5"	UI	OnDisplay	Shown		System, Utility	
+org.kde.ksirkskineditor.desktop	KsirK Skin Editor	Skin Editor for the World Domination Strategy Game		"ksirkskineditor -qwindowtitle %c -qwindowicon preferences-desktop-locale"	UI	OnDisplay	Shown		Qt, KDE, Game, StrategyGame	
+kcm_solid_actions.desktop	Device Actions			"systemsettings kcm_solid_actions"	UI	NoDisplay	Shown			
+qv4l2.desktop	Qt V4L2 test Utility		Allow testing Video4Linux devices	"qv4l2"	UI	OnDisplay	Shown		AudioVideo	video, grabber, V4L
+fcitx5-configtool.desktop	Fcitx 5 Configuration	Input Method Configuration	Change Fcitx 5 Configuration	"/usr/bin/fcitx5-configtool"	UI	OnDisplay	Shown		Settings	
+org.kde.konquest.desktop	Konquest	Galactic Strategy Game		"konquest -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, StrategyGame	
+kcm_cddb.desktop	CDDB Retrieval			"systemsettings kcm_cddb"	UI	NoDisplay	Shown			
+kcm_lookandfeel.desktop	Global Theme			"systemsettings kcm_lookandfeel"	UI	NoDisplay	Shown			
+org.kde.kmousetool.desktop	KMouseTool	Automatic Mouse Click	Clicks the mouse for you, reducing the effects of RSI	"kmousetool -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Utility, Accessibility	
+org.gnome.Glade.desktop	Glade	Interface Designer	Create or open user interface designs for GTK+ applications	"glade %F"	UI	OnDisplay	Shown	application/x-gtk-builder, application/x-glade	GNOME, GTK, Development, GUIDesigner	GUI designer, user interface, ui builder
+org.kde.blinken.desktop	Blinken	Memory Enhancement Game	A memory enhancement game	"blinken"	UI	OnDisplay	Shown		Qt, KDE, Education, Game, KidsGame	
+org.kde.ksudoku.desktop	KSudoku	Sudoku Game	KSudoku, Sudoku game & more by KDE	"ksudoku -qwindowicon ksudoku -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, LogicGame	
+org.kde.mobile.okular_txt.desktop	Reader	Document viewer	Viewer for various types of documents	"okularkirigami %u"	UI	NoDisplay	Shown	text/plain	Qt, KDE, Graphics, Office, Viewer	
+org.kde.akonadi_contacts_resource.desktop	Personal Contacts			"akonadi_contacts_resource"	UI	NoDisplay	Shown			
+org.kde.konqueror.desktop	Konqueror	Web Browser, File Manager and Viewer	KDE File Manager & Web Browser	"konqueror %U"	UI	NoDisplay	Shown		Qt, KDE, Internet, Network	
+google-maps-geo-handler.desktop	Google Maps			"kde-geo-uri-handler --coordinate-template "https://www.google.com/maps/@<LAT>,<LON>,<Z>z" --query-template "https://www.google.com/maps/search/<Q>" --fallback "https://www.google.com/maps/" %u"	UI	NoDisplay	Shown	x-scheme-handler/geo		
+org.kde.cervisia.desktop	Cervisia	CVS Frontend		"cervisia -qwindowtitle %c %u"	UI	OnDisplay	Shown	inode/directory	Qt, KDE, Development, RevisionControl	
+kcm_fontinst.desktop	Font Management			"systemsettings kcm_fontinst"	UI	NoDisplay	Shown			
+org.kde.alligator.desktop	Alligator	Feed Reader	Mobile Feed Reader	"alligator"	UI	OnDisplay	Shown		Network, Qt, KDE, Feed	
+okularApplication_dvi.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	NoDisplay	Shown	application/x-dvi, application/x-gzdvi, application/x-bzdvi	Qt, KDE, Graphics, Viewer	
+kcm_clock.desktop	Date & Time			"systemsettings kcm_clock"	UI	NoDisplay	Shown			
+org.kde.plasma.lookandfeelexplorer.desktop	Plasma Global Theme Explorer		Explore and edit your Plasma Global Themes	"lookandfeelexplorer"	UI	OnDisplay	Shown		Qt, KDE, Development, IDE	
+kcm_keys.desktop	Shortcuts			"systemsettings kcm_keys"	UI	NoDisplay	Shown			
+org.kde.contactprintthemeeditor.desktop	Contact Print Theme Editor	Contact Print Theme Editor		"contactprintthemeeditor"	UI	OnDisplay	Shown		Qt, KDE, Office, Network, ContactManagement	
+marble_kml.desktop	Marble	Virtual Globe		"marble %F"	UI	NoDisplay	Shown	application/vnd.google-earth.kml+xml	Qt, KDE, Education, Geography	
+org.kde.kdeconnect.app.desktop	KDE Connect	Device Synchronization	Make all your devices one	"kdeconnect-app"	UI	OnDisplay	Shown		Qt, KDE, Network	
+org.kde.plasma.browser_integration.host.desktop	Plasma Browser Integration Host			"/usr/bin/plasma-browser-integration-host"	UI	NoDisplay	Shown			
+org.kde.akonadi_google_resource.desktop	Google Groupware			"akonadi_google_resource"	UI	NoDisplay	Shown			
+ibus-setup-kkc.desktop	Kana Kanji Conversion Preferences		Customize Kana Kanji Conversion input-method	"/usr/libexec/ibus-setup-kkc"	UI	NoDisplay	Shown			
+org.kde.marble.desktop	KDE Marble	Virtual Globe	Navigation and Maps	"marble %F"	UI	OnDisplay	Shown		Qt, KDE, Education, Geoscience, Geography, Science, Maps	
+eboard.desktop	eboard	Chess Game	A graphical chess engine frontend	"eboard"	UI	OnDisplay	Shown		Application, Game, BoardGame	
+org.kde.mobile.okular_mobi.desktop	Reader	Document viewer	Viewer for various types of documents	"okularkirigami %u"	UI	NoDisplay	Shown	application/x-mobipocket-ebook	Qt, KDE, Graphics, Office, Viewer	
+gcdmaster.desktop	Gnome CD Master		Gnome Audio CD editor and burner	"gcdmaster %F"	UI	OnDisplay	Shown		GNOME, AudioVideo, Application, X-Fedora	
+xfce4-screensaver-preferences.desktop	Xfce Screensaver	Xfce Screensaver	Set your xfce4-screensaver preferences	"xfce4-screensaver-preferences"	UI	OnDisplay	Shown		GTK, Settings, DesktopSettings, X-XFCE-PersonalSettings, X-XFCE-SettingsDialog	
+gtk3-widget-factory.desktop	Widget Factory		A showcase for GTK+ widgets, designed for testing themes.	"gtk3-widget-factory"	UI	NoDisplay	Shown		Development, GTK	
+org.kde.ksnakeduel.desktop	KSnakeDuel	A race in hyperspace		"ksnakeduel"	UI	OnDisplay	Shown		Qt, KDE, Game, ArcadeGame	
+org.freedesktop.IBus.Panel.Emojier.desktop	Emoji Choice			"ibus emoji"	UI	NoDisplay	Shown			
+xfce-display-settings.desktop	Display		Configure screen settings and layout	"xfce4-display-settings"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-HardwareSettings	display, settings, screen, resolution, refresh, rate, rotation, external, projectors, monitors, LCD, CRT, HiDPI
+kcm_mouse.desktop	Mouse			"systemsettings kcm_mouse"	UI	NoDisplay	Shown			
+org.kde.PrintQueue.desktop	Print Queue		View the print jobs	"kde-print-queue"	UI	NoDisplay	Shown		Qt, KDE, Printing, Utility	
+kcm_kwindecoration.desktop	Window Decorations			"systemsettings kcm_kwindecoration"	UI	NoDisplay	Shown			
+org.kde.kdenlive.desktop	Kdenlive	Video Editor	Nonlinear video editor by KDE	"kdenlive %F"	UI	OnDisplay	Shown	application/x-kdenlive	Qt, KDE, AudioVideo, AudioVideoEditing	editing, video, audio, mlt, kde
+org.kde.kpat.desktop	KPatience	Patience Card Game	Solitaire card game	"kpat -qwindowtitle %c %u"	UI	OnDisplay	Shown	application/vnd.kde.kpatience.savedstate	Qt, KDE, Game, CardGame	
+org.kde.kcolorschemeeditor.desktop	KColorSchemeEditor	Color scheme editor	Plasma color scheme editor	"kcolorschemeeditor"	UI	NoDisplay	Shown		Qt, KDE, Settings, X-KDE-settings-looknfeel	
+org.kde.ksystemlog.desktop	KSystemLog	System Log Viewer	System log viewer tool	"ksystemlog -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, System, Monitor	log, logfile, system messages, system log, kernel log, authentication log, X.org log, journald log, services logs, Event Viewer, eventvwr, eventlog
+kcm_powerdevilprofilesconfig.desktop	Energy Saving			"systemsettings kcm_powerdevilprofilesconfig"	UI	NoDisplay	Shown			
+org.kde.marble.maps.desktop	Marble Maps	OpenStreetMap Navigation	Find your way	"marble-maps %F"	UI	OnDisplay	Shown		Qt, KDE, Education, Geography, Maps	
+xfce4-session-logout.desktop	Log Out		Log out of the Xfce Desktop	"xfce4-session-logout"	UI	OnDisplay	Shown		System, X-XFCE, X-Xfce-Toplevel	
+xfce4-accessibility-settings.desktop	Accessibility		Improve keyboard and mouse accessibility	"xfce4-accessibility-settings"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-SystemSettings	assistive, technologies, keys, sticky, bounce, emulation, screen readers, magnifiers, a11y, i18n, l10n, AT-SPI, ATK, impairment
+org.kde.mobile.okular_kimgio.desktop	Reader	Document viewer	Viewer for various types of documents	"okularkirigami %u"	UI	NoDisplay	Shown	image/bmp, image/x-dds, image/x-eps, image/x-exr, image/gif, image/x-hdr, image/x-ico, image/jp2, image/jpeg, video/x-mng, image/x-portable-bitmap, image/x-pcx, image/x-portable-graymap, image/png, image/x-portable-pixmap, image/x-psd, image/x-rgb, image/x-tga, image/tiff, image/x-xbitmap, image/x-xcf, image/x-xpixmap, image/x-gzeps, image/x-bzeps, image/avif, image/heif, image/webp, image/jxl	Qt, KDE, Graphics, Office, Viewer	
+thunar-volman-settings.desktop	Removable Drives and Media		Configure management of removable drives and media	"thunar-volman-settings"	UI	OnDisplay	Shown		XFCE, GTK, Settings, DesktopSettings, X-XFCE-SettingsDialog, X-XFCE-HardwareSettings	
+qt5-qdbusviewer.desktop	Qt5 QDbusViewer	Qt5 D-Bus Debugger	Debug D-Bus applications	"qdbusviewer-qt5"	UI	OnDisplay	Shown		Qt, Development, Debugger	
+htop.desktop	Htop	Process Viewer	Show System Processes	"htop"	Terminal	OnDisplay	Shown		System, Monitor, ConsoleOnly	system, process, task
+org.kde.krusader.desktop	Krusader	File Manager	Twin-Panel File Manager	"krusader -qwindowtitle %c %u"	UI	OnDisplay	Shown	inode/directory	FileManager, Utility, Qt, KDE	
+org.kde.khelpcenter.desktop	Help	Help Center	Browse and search documentation	"khelpcenter %u"	UI	OnDisplay	Shown	x-scheme-handler/help, x-scheme-handler/man, x-scheme-handler/info	Qt, KDE, Core	man, info, documentation, handbook, manual, information
+kcm_kwin_virtualdesktops.desktop	Virtual Desktops			"systemsettings kcm_kwin_virtualdesktops"	UI	NoDisplay	Shown			
+org.fcitx.fcitx5-migrator.desktop	Fcitx 5 Migration Wizard		Import data from other input method such as Fcitx 4	"fcitx5-migrator"	UI	OnDisplay	Shown		Settings	
+org.kde.drkonqi.desktop	Dr Konqi			"/usr/lib64/libexec/drkonqi"	UI	NoDisplay	Shown			
+kcm_kwin_effects.desktop	Desktop Effects			"systemsettings kcm_kwin_effects"	UI	NoDisplay	Shown			
+org.fcitx.fcitx5-qt5-gui-wrapper.desktop	Fcitx 5 Qt5 Gui Wrapper	Input Method Configuration helper	Load configuration plugin for Fcitx Addon	"/usr/libexec/fcitx5-qt5-gui-wrapper"	UI	NoDisplay	Shown		Settings	
+org.kde.sweeper.desktop	Sweeper	System Cleaner	Helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files	"sweeper"	UI	OnDisplay	Shown		Qt, KDE, Utility	
+kcm_notifications.desktop	Notifications			"systemsettings kcm_notifications"	UI	NoDisplay	Shown			
+kipiplugins.desktop	KIPI Plugins		KDE Image Plugins Interface	""""	UI	NoDisplay	Shown		Qt, KDE, Graphics	
+soma.desktop	Internet Radio	Live Internet Radio Streams	Soma - Live Internet Streams	"soma"	Terminal	OnDisplay	Shown		Application, Network, Audio, Player	
+org.kde.kmines.desktop	KMines	Minesweeper-like Game	Minesweeper-like Game	"kmines -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, StrategyGame	
+org.kde.kapptemplate.desktop	KAppTemplate	App Code Template Generator		"kapptemplate"	UI	OnDisplay	Shown		Qt, KDE, Development	
+org.kde.mobile.okular_ghostview.desktop	Reader	Document viewer	Viewer for various types of documents	"okularkirigami %u"	UI	NoDisplay	Shown	application/postscript, image/x-eps, application/x-gzpostscript, application/x-bzpostscript, image/x-gzeps, image/x-bzeps	Qt, KDE, Graphics, Office, Viewer	
+rxvt-unicode.desktop	rxvt-unicode		A VT102 emulator for the X window system	"urxvt"	UI	OnDisplay	Shown		System, TerminalEmulator	
+qt5-assistant.desktop	Qt5 Assistant		Shows Qt5 documentation and examples	"assistant-qt5"	UI	OnDisplay	Shown		Qt, Development, Documentation	
+org.kde.kshisen.desktop	Shisen-Sho	Shisen-Sho Mahjongg-like Tile Game		"kshisen -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, BoardGame	
+joe.desktop	Joe's Own Editor	Text Editor	View and edit files	"/usr/bin/joe %F"	Terminal	OnDisplay	Shown	text/english, text/plain, text/x-makefile, text/x-c++hdr, text/x-c++src, text/x-chdr, text/x-csrc, text/x-java, text/x-moc, text/x-pascal, text/x-tcl, text/x-tex, application/x-shellscript, text/x-c, text/x-c++	Utility, Development, TextEditor	
+kcm_kamera.desktop	Digital Camera			"systemsettings kcm_kamera"	UI	NoDisplay	Shown			
+org.kde.lskat.desktop	LSkat	Classic German Card Game		"lskat"	UI	OnDisplay	Shown		Qt, KDE, Game, CardGame	
+org.kde.ksquares.desktop	KSquares	Connect the dots to create squares	Connect the dots to create squares	"ksquares -qwindowicon ksquares -qwindowtitle %c"	UI	OnDisplay	Shown		Game, BoardGame, Qt, KDE	
+kcm_fonts.desktop	Fonts			"systemsettings kcm_fonts"	UI	NoDisplay	Shown			
+org.kde.plasma.cuttlefish.desktop	Cuttlefish	Icon Viewer	Icon Previewer for Artists and Developers	"cuttlefish"	UI	OnDisplay	Shown		Qt, KDE, Development, IDE	design, icon, preview, symbol
+org.kde.kdiamond.desktop	KDiamond	Three-in-a-row game	Logic game	"kdiamond -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, LogicGame	
+org.kde.mobile.okular_plucker.desktop	Reader	Document viewer	Viewer for various types of documents	"okularkirigami %u"	UI	NoDisplay	Shown	application/prs.plucker	Qt, KDE, Graphics, Office, Viewer	
+kfmclient.desktop	Konqueror			"kfmclient openURL %u"	UI	NoDisplay	Shown		Qt, KDE, System	
+xterm.desktop	XTerm		standard terminal emulator for the X window system	"xterm"	UI	OnDisplay	Shown		System, TerminalEmulator	shell, prompt, command, commandline, cmd
+pavucontrol.desktop	PulseAudio Volume Control	Volume Control	Adjust the volume level	"pavucontrol"	UI	OnDisplay	Shown		AudioVideo, Audio, Mixer, GTK, Settings, X-XFCE-SettingsDialog, X-XFCE-HardwareSettings	pavucontrol, Microphone, Volume, Fade, Balance, Headset, Speakers, Headphones, Audio, Mixer, Output, Input, Devices, Playback, Recording, System Sounds, Sound Card, Settings, Preferences
+org.kde.kblocks.desktop	KBlocks	Falling Blocks Game		"kblocks -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, ArcadeGame	
+xboard.desktop	Xboard	Chess Game	Chess Game	"xboard"	UI	OnDisplay	Shown		Game, BoardGame	
+nm-connection-editor.desktop	Advanced Network Configuration		Manage and change your network connection settings	"nm-connection-editor"	UI	OnDisplay	Shown		GNOME, GTK, Settings, X-GNOME-NetworkSettings, X-GNOME-Utilities	
+okularApplication_plucker.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	NoDisplay	Shown	application/prs.plucker	Qt, KDE, Graphics, Viewer	
+org.kde.plasma.themeexplorer.desktop	Plasma Theme Explorer		Explore and edit your Plasma themes	"plasmathemeexplorer"	UI	OnDisplay	Shown		Qt, KDE, Development, GUIDesigner	
+org.kde.okteta.desktop	Okteta	Hex Editor		"okteta %U"	UI	OnDisplay	Shown		Qt, KDE, Utility, X-KDE-Utilities-File	
+kcm_printer_manager.desktop	Printers			"systemsettings kcm_printer_manager"	UI	NoDisplay	Shown			
+org.kde.gwenview_importer.desktop	Gwenview Importer			"gwenview_importer %u"	UI	NoDisplay	Shown			
+gimp.desktop	GNU Image Manipulation Program	Image Editor	Create images and edit photographs	"gimp-2.10 %U"	UI	OnDisplay	Shown	image/bmp, image/g3fax, image/gif, image/x-fits, image/x-pcx, image/x-portable-anymap, image/x-portable-bitmap, image/x-portable-graymap, image/x-portable-pixmap, image/x-psd, image/x-sgi, image/x-tga, image/x-xbitmap, image/x-xwindowdump, image/x-xcf, image/x-compressed-xcf, image/x-gimp-gbr, image/x-gimp-pat, image/x-gimp-gih, image/x-sun-raster, image/tiff, image/jpeg, image/x-psp, application/postscript, image/png, image/x-icon, image/x-xpixmap, image/x-exr, image/webp, image/x-webp, image/svg+xml, application/pdf, image/x-wmf, image/jp2, image/x-xcursor, image/openraster	Graphics, 2DGraphics, RasterGraphics, GTK	GIMP, graphic, design, illustration, painting
+io.github.Hexchat.desktop	HexChat	IRC Client	Chat with other people online	"hexchat --existing %U"	UI	OnDisplay	Shown	x-scheme-handler/irc, x-scheme-handler/ircs	GTK, Network, IRCClient	IM, Chat
+org.kde.ktouch.desktop	KTouch	Touch Typing Tutor	Learn typing without looking for keys	"ktouch"	UI	OnDisplay	Shown		Qt, KDE, Education, X-KDE-Edu-Misc	
+org.kde.akonadi_ews_resource.desktop	Microsoft Exchange Server (EWS)			"akonadi_ews_resource"	UI	NoDisplay	Shown			
+org.kde.kbreakout.desktop	KBreakOut	Breakout-like Game	Classic arcade game	"kbreakout -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, ArcadeGame	
+org.kde.kwin_rules_dialog.desktop	Window Rules			"kwin_rules_dialog"	UI	NoDisplay	Shown			
+org.kde.filelight.desktop	Filelight	Disk Usage Statistics	Show disk usage and delete unused files	"filelight %u"	UI	OnDisplay	Shown	inode/directory	Qt, KDE, Utility	disk, drive, space, storage, usage
+org.kde.headerthemeeditor.desktop	KMail Header Theme Editor	Mail Header Theme Editor		"headerthemeeditor"	UI	OnDisplay	Shown		Qt, KDE, Office, Network, Email	
+xscreensaver.desktop	XScreenSaver		XScreenSaver daemon: screen saver and locker	"xscreensaver"	UI	OnDisplay	Shown		Screensaver, Security, GNOME, GTK, KDE, Motif, Qt	
+okularApplication_epub.desktop	Okular	Document Viewer	Universal document viewer	"okular %U"	UI	NoDisplay	Shown	application/epub+zip	Qt, KDE, Graphics, Viewer	
+kcm_access.desktop	Accessibility			"systemsettings kcm_access"	UI	NoDisplay	Shown			
+org.fcitx.fcitx5-config-qt.desktop	Fcitx 5 Configuration	Input Method Configuration	Change Fcitx 5 Configuration	"fcitx5-config-qt"	UI	NoDisplay	Shown		Settings	
+org.kde.kdevelop_ps.desktop	KDevelop (Pick Session)	Integrated Development Environment (Pick Session to start with)		"kdevelop --ps"	UI	OnDisplay	Shown		Qt, KDE, Development, IDE	
+kcm_krunnersettings.desktop	KRunner Settings			"kcmshell5 kcm_krunnersettings"	UI	NoDisplay	Shown			
+kfmclient_war.desktop	Konqueror			"kfmclient --mimetype application/x-webarchive openURL %u"	UI	NoDisplay	Shown	application/x-webarchive	Qt, KDE, System	
+xfig.desktop	xfig		Facility for Interactive Generation of figures under X11	"/usr/bin/xfig %f"	UI	OnDisplay	Shown	application/x-xfig	Graphics	vector, graphics, figure, drawing
+kcm_kscreen.desktop	Display Configuration			"systemsettings kcm_kscreen"	UI	NoDisplay	Shown			
+org.kde.kwordquiz.desktop	KWordQuiz	Flash Card Trainer	A flashcard and vocabulary learning program	"kwordquiz %u -qwindowtitle %c"	UI	OnDisplay	Shown	application/x-kvtml	Qt, KDE, Education, Languages	
+org.kde.kompare.desktop	Kompare	Diff/Patch Frontend		"kompare %U"	UI	OnDisplay	Shown	text/x-patch	Qt, KDE, Development	
+org.kde.mboximporter.desktop	MBoxImporter			"mboximporter %u"	UI	OnDisplay	Hidden	application/mbox	Qt, KDE, Office, Network, Email	
+org.kde.ksame.desktop	SameGame	Board Game		"klickety --KSameMode -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, StrategyGame	
+xpdf.desktop	X PDF	PDF Viewer		"xpdf"	UI	OnDisplay	Shown	application/pdf	Graphics	
+org.kde.kanagram.desktop	Kanagram	Letter Order Game	KDE Letter Order Game	"kanagram"	UI	OnDisplay	Shown		Qt, KDE, Education, Languages, Game, KidsGame	
+org.kde.mobile.okular_djvu.desktop	Reader	Document viewer	Viewer for various types of documents	"okularkirigami %u"	UI	NoDisplay	Shown	image/vnd.djvu	Qt, KDE, Graphics, Office, Viewer	
+thunar-bulk-rename.desktop	Bulk Rename	Bulk Rename	Rename Multiple Files	"thunar --bulk-rename %F"	UI	OnDisplay	Shown		Utility, Core, GTK, Filesystem	bulk, renamer, renaming, thunar, files, folders, directory, directories
+org.kde.klickety.desktop	Klickety	Board Game		"klickety -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, StrategyGame	
+jmacs.desktop	Joe's Own Editor - EMACS Emulation	Text Editor	View and edit files	"/usr/bin/jmacs %F"	Terminal	OnDisplay	Shown	text/english, text/plain, text/x-makefile, text/x-c++hdr, text/x-c++src, text/x-chdr, text/x-csrc, text/x-java, text/x-moc, text/x-pascal, text/x-tcl, text/x-tex, application/x-shellscript, text/x-c, text/x-c++	Utility, Development, TextEditor	
+kcm_workspace.desktop	General Behavior			"systemsettings kcm_workspace"	UI	NoDisplay	Shown			
+org.kde.kfind.desktop	KFind	Find Files/Folders		"kfind %u"	UI	OnDisplay	Shown		Qt, KDE, Utility	
+mozilla-firefox.desktop	Firefox	Web Browser		"firefox %u"	UI	OnDisplay	Shown	text/html, text/xml, application/xhtml+xml, application/vnd.mozilla.xul+xml, text/mml, x-scheme-handler/http, x-scheme-handler/https	Network, WebBrowser	
+pidgin.desktop	Pidgin	Internet Messenger	Chat over IM.  Supports XMPP, IRC, and more	"pidgin"	UI	OnDisplay	Shown		GTK, Network, InstantMessaging	chat, talk, im, message, bonjour, gadu-gadu, irc, groupwise, jabber, sametime, silc, simple, xmpp, zephyr
+org.kde.kmahjongg.desktop	KMahjongg	Mahjongg Solitaire		"kmahjongg -qwindowtitle %c"	UI	OnDisplay	Shown		Qt, KDE, Game, BoardGame	
+org.kde.k3b.desktop	K3b	Disk Burning	Disk writing program	"k3b %U"	UI	OnDisplay	Shown	application/x-k3b, application/x-iso, application/x-cd-image, application/x-cue, x-content/blank-cd, x-content/blank-dvd, x-content/blank-bd, x-content/blank-hddvd	KDE, Qt, AudioVideo, DiscBurning, Filesystem	
+org.kde.elisa.desktop	Elisa	Music Player		"elisa %U"	UI	OnDisplay	Shown	audio/aac, audio/mp4, audio/mpeg, audio/mpegurl, audio/vnd.rn-realaudio, audio/vorbis, audio/x-flac, audio/x-mp3, audio/x-mpegurl, audio/x-ms-wma, audio/x-musepack, audio/x-oggflac, audio/x-pn-realaudio, audio/x-scpls, audio/x-speex, audio/x-vorbis, audio/x-wav, application/x-ogm-audio, audio/x-vorbis+ogg, audio/ogg	Qt, KDE, Audio, AudioVideo	
+org.kde.skanpage.desktop	Skanpage	Multi-Page Document Scanning Application	Scan and save multi-page documents	"skanpage"	UI	OnDisplay	Shown		Qt, KDE, Graphics, Scanning	
+WPrefs.desktop	WPrefs		Window Maker Preferences	"WPrefs"	UI	OnDisplay	Shown		Settings, DesktopSettings	
+org.kde.marble-qt.desktop	Marble	Virtual Globe	Navigation and Maps	"marble-qt %F"	UI	OnDisplay	Shown		Qt, KDE, Education, Geoscience, Geography, Science, Maps	
+kcm_virtualkeyboard.desktop	Virtual Keyboard			"systemsettings kcm_virtualkeyboard"	UI	NoDisplay	Shown			
+marble_geojson.desktop	Marble	Virtual Globe		"marble %F"	UI	NoDisplay	Shown	application/geo+json	Qt, KDE, Education, Geography	
+org.kde.kalzium_cml.desktop	Kalzium			"kalzium -qwindowtitle %c -molecule %f"	UI	NoDisplay	Shown	chemical/x-cml		
+kcm_kwin_scripts.desktop	KWin Scripts			"systemsettings kcm_kwin_scripts"	UI	NoDisplay	Shown			
+org.xfce.mousepad.desktop	Mousepad	Text Editor	Simple Text Editor	"mousepad %U"	UI	OnDisplay	Shown	text/plain, application/x-zerosize	Utility, TextEditor, GTK	
+org.kde.palapeli.desktop	Palapeli	Jigsaw puzzle game		"palapeli %u"	UI	OnDisplay	Shown	application/x-palapeli-puzzle	Qt, KDE, Game, LogicGame	
+org.gtk.Demo4.desktop	GTK Demo		GTK code examples and demonstrations	"gtk4-demo"	UI	OnDisplay	Shown		Development, GTK	
+kwalletmanager5-kwalletd.desktop	KDE Wallet Management Tool		KDE Wallet Management Tool	"kwalletmanager5 --kwalletd"	UI	NoDisplay	Shown			
+org.kde.kaddressbook.desktop	KAddressBook	Contact Manager		"kaddressbook %u"	UI	OnDisplay	Shown		Qt, KDE, Office, ContactManagement	
+kaddressbook-importer.desktop	KAddressbook import file		KAddressBook running in file import mode	"kaddressbook --import %u"	UI	NoDisplay	Shown	text/vcard, text/x-ldif	Qt, KDE, Office, ContactManagement	
+xpaint.desktop	XPaint		Xpaint painting application	"xpaint %f"	UI	OnDisplay	Shown	image/bmp, image/g3fax, image/gif, image/x-fits, image/x-pcx, image/x-portable-anymap, image/x-portable-bitmap, image/x-portable-graymap, image/x-portable-pixmap, image/x-psd, image/x-sgi, image/x-tga, image/x-xbitmap, image/x-xwindowdump, image/tiff, image/jpeg, application/postscript, image/png, image/x-icon, image/x-xpixmap, application/pdf, image/jp2, image/x-xcursor	Graphics, 2DGraphics, RasterGraphics	
+kcm_breezedecoration.desktop	Breeze Window Decoration			"kcmshell5 kcm_breezedecoration"	UI	NoDisplay	Shown			
+kcm_kwinrules.desktop	Window Rules			"systemsettings kcm_kwinrules"	UI	NoDisplay	Shown			
+xfce4-file-manager.desktop	File Manager		Browse the file system	"exo-open --launch FileManager %u"	UI	OnDisplay	Shown		Utility, X-XFCE, X-Xfce-Toplevel	
+org.kde.dragonplayer.desktop	Dragon Player	Video Player		"dragon %u"	UI	OnDisplay	Shown	video/ogg, video/x-theora+ogg, video/x-ogm+ogg, video/x-ms-wmv, video/x-msvideo, video/x-ms-asf, video/x-matroska, video/mpeg, video/avi, video/quicktime, video/vnd.rn-realvideo, video/x-flic, video/mp4, video/x-flv, video/webm, application/x-cd-image	Qt, KDE, AudioVideo, Player	
+org.kde.kimagemapeditor.desktop	KImageMapEditor	HTML Image Map Editor		"kimagemapeditor -qwindowtitle %c %F"	UI	OnDisplay	Shown	text/html	Qt, KDE, Development, WebDevelopment	
+org.kde.ark.desktop	Ark	Archiving Tool	Work with file archives	"ark %U"	UI	OnDisplay	Shown	application/x-deb, application/x-cd-image, application/x-bcpio, application/x-cpio, application/x-cpio-compressed, application/x-sv4cpio, application/x-sv4crc, application/x-rpm, application/x-compress, application/gzip, application/x-bzip, application/x-lzma, application/x-xz, application/zlib, application/zstd, application/x-lz4, application/x-lzip, application/x-lrzip, application/x-lzop, application/x-source-rpm, application/vnd.debian.binary-package, application/vnd.ms-cab-compressed, application/x-xar, application/x-iso9660-appimage, application/x-archive, application/x-tar, application/x-compressed-tar, application/x-bzip-compressed-tar, application/x-tarz, application/x-xz-compressed-tar, application/x-lzma-compressed-tar, application/x-lzip-compressed-tar, application/x-tzo, application/x-lrzip-compressed-tar, application/x-lz4-compressed-tar, application/x-zstd-compressed-tar, application/vnd.rar, application/x-7z-compressed, application/zip, application/x-java-archive, application/x-lha, application/x-stuffit, application/x-arj, application/arj	Qt, KDE, Utility, Archiving, Compression, X-KDE-Utilities-File	
+org.kde.picmi.desktop	Picmi	Logic Game	A number logic game	"picmi"	UI	OnDisplay	Shown		Qt, KDE, Game, LogicGame	
+org.kde.ktimer.desktop	KTimer	Countdown Launcher	Desktop stopwatch	"ktimer"	UI	OnDisplay	Shown		Qt, KDE, Utility	
+xscreensaver-settings.desktop	XScreenSaver Settings		Change screensaver properties	"xscreensaver-settings"	UI	OnDisplay	Shown		Settings, DesktopSettings, Screensaver, Security, GNOME, GTK, KDE, Motif, Qt, X-GNOME-Settings-Panel, X-GNOME-SystemSettings, X-Unity-Settings-Panel, X-XFCE-SettingsDialog, X-XFCE-SystemSettings	

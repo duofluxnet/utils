@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=gpa
+Name[sv]=gpa
+Name[en_US.ISO8859-1]=gpa
+GenericName=GNU Privacy Assistant
+GenericName[sv]=GNU Integritets-hjälpreda
+GenericName[en_US.ISO8859-1]=GNU Privacy Assistant
+Exec=gpa %f
+Icon=gpa
+Terminal=false
+Type=Application
+Categories=GTK;Application;Security;Utility;
+MimeType=application/pgp-encrypted;application/pgp-signature

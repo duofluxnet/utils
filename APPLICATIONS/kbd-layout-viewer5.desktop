@@ -1,0 +1,32 @@
+[Desktop Entry]
+Exec=kbd-layout-viewer5
+Icon=input-keyboard
+Type=Application
+
+Name[ca]=Visualitzador de disposició de teclat
+Name[da]=Tastaturlayout-fremviser
+Name[de]=Tastaturlayout-Betrachter
+Name[fr]=Visionneuse de disposition de clavier
+Name[he]=מציג פריסות מקלדת
+Name[ja]=キーボードレイアウトビューアー
+Name[ko]=키보드 자판 보기도구
+Name[ru]=Просмотрщик раскладки клавиатуры
+Name[tr]=Klavye Düzeni görüntüleyici
+Name[zh_CN]=键盘布局查看器
+Name[zh_TW]=鍵盤佈局檢視器
+Name=Keyboard layout viewer
+Comment[ca]=Visualitza la disposició de teclat
+Comment[da]=Vis tastaturlayout
+Comment[de]=Tastaturlayout ansehen
+Comment[fr]=Afficher la disposition du clavier
+Comment[ja]=キーボードレイアウトを見る
+Comment[ko]=키보드 자판 보기
+Comment[ru]=Просмотреть раскладку клавиатуры
+Comment[tr]=Klavye serilimini görüntüle
+Comment[zh_CN]=查看键盘布局
+Comment[zh_TW]=檢視鍵盤佈局
+Comment=View keyboard layout
+
+X-KDE-Keywords=keyboard;input;im
+
+Categories=Qt;KDE;Utility;

@@ -1,0 +1,11 @@
+[Desktop Entry]                        
+Version=1.0                            
+Type=Application                       
+Name=Internet Radio
+Comment=Soma - Live Internet Streams          
+Exec=soma                              
+Icon=Radio                    
+Terminal=true                          
+StartupNotify=false                    
+Categories=Application;Network;Audio;Player;
+GenericName=Live Internet Radio Streams

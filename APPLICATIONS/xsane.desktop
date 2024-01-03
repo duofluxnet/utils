@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+#Name=XSane - Scanning
+Name=XSane
+GenericName=Scanner Tool
+X-GNOME-FullName=XSane (Scanner Tool)
+Comment=Acquire images from a scanner
+Exec=xsane
+TryExec=xsane
+Icon=xsane
+Terminal=false
+Type=Application
+Categories=Graphics;2DGraphics;RasterGraphics;Scanning;GTK;
+StartupNotify=true

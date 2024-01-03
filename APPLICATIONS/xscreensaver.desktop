@@ -1,0 +1,35 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Exec=xscreensaver
+Icon=xscreensaver
+Name=XScreenSaver
+Name[be]=XScreenSaver
+Name[ca]=XScreenSaver
+Name[da]=Pauseskærm
+Name[de]=XScreenSaver
+Name[el]=XScreenSaver
+Name[es]=XScreenSaver
+Name[et]=XScreenSaver
+Name[fi]=XScreenSaver
+Name[fr]=XScreenSaver
+Name[hu]=XScreenSaver
+Name[ja]=XScreenSaver
+Name[ko]=화면 보호기
+Name[lt]=XScreenSaver
+Name[nb]=XScreenSaver
+Name[nl]=XScreenSaver
+Name[pl]=XScreenSaver
+Name[pt]=XScreenSaver
+Name[pt_BR]=XScreenSaver
+Name[ru]=Хранитель экрана X
+Name[sv]=XScreenSaver
+Name[tr]=XScreenSaver
+Name[vi]=XScreenSaver
+Name[wa]=Sipårgneu di waitroûle
+Name[zh_CN]=XScreenSaver
+Name[zh_TW]=XScreenSaver
+Comment=XScreenSaver daemon: screen saver and locker
+Comment[ja]=XScreenSaverデーモン: スクリーンセーバとロックツール
+Type=Application
+Categories=Screensaver;Security;GNOME;GTK;KDE;Motif;Qt
+Terminal=false

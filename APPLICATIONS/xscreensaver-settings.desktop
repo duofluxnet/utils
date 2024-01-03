@@ -1,0 +1,22 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Exec=xscreensaver-settings
+Icon=xscreensaver
+Name=XScreenSaver Settings
+Name[ja]=XScreenSaverの設定
+Comment=Change screensaver properties
+Comment[ca]=Canvieu les propietats de l'estalvi de pantalla
+Comment[da]=Ændr egenskaber for pauseskærm
+Comment[de]=Einstellungen des Bildschirmschoners ändern
+Comment[fi]=Muuta näytönsäästäjän ominaisuuksia
+Comment[fr]=Modifier les propriétés de l'économiseur d'écran
+Comment[hu]=Képernyővédő tulajdonságainak megváltoztatása
+Comment[ja]=スクリーンセーバーの設定を変更する
+Comment[lt]=Keisti ekrano užsklandos savybes
+Comment[nl]=Eigenschappen van schermbeveiliging aanpassen
+Comment[pt_BR]=Modificar as propriedades do protetor de tela
+Comment[ru]=Изменить свойства хранителя экрана
+Comment[tr]=Ekran koruyucu ayarlarını değiştir
+Type=Application
+Categories=Settings;DesktopSettings;Screensaver;Security;GNOME;GTK;KDE;Motif;Qt;X-GNOME-Settings-Panel;X-GNOME-SystemSettings;X-Unity-Settings-Panel;X-XFCE-SettingsDialog;X-XFCE-SystemSettings
+Terminal=false

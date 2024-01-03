@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.5
+Type=Application
+Name=WPrefs
+Comment=Window Maker Preferences
+TryExec=/usr/lib64/GNUstep/Applications/WPrefs.app/WPrefs
+Exec=WPrefs
+Icon=/usr/lib64/GNUstep/Applications/WPrefs.app/WPrefs.xpm
+Categories=Settings;DesktopSettings;

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Kana Kanji Conversion Preferences
+Name[ja]=かな漢字変換の設定
+Comment=Customize Kana Kanji Conversion input-method
+Comment[ja]=かな漢字入力メソッドをカスタマイズ
+Exec=/usr/libexec/ibus-setup-kkc
+Icon=/usr/share/ibus-kkc/icons/ibus-kkc.svg
+NoDisplay=true
+Type=Application
+StartupNotify=true
